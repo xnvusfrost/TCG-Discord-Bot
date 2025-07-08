@@ -1,0 +1,716 @@
+{
+  "pack_image_url": "https://tcgplayer-cdn.tcgplayer.com/product/138132_in_1000x1000.jpg",
+  "cards":
+[
+  {
+    "name": "Alakazam",
+    "rarity": "rare",
+    "number": "1",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/alakazam-base-set-bs-1.jpg"
+  },
+  {
+    "name": "Blastoise",
+    "rarity": "rare",
+    "number": "2",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/blastoise-base-set-bs-2-325x447.jpg"
+  },
+  {
+    "name": "Chansey",
+    "rarity": "rare",
+    "number": "3",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/chansey-base-set-bs-3-325x447.jpg"
+  },
+  {
+    "name": "Charizard",
+    "rarity": "rare",
+    "number": "4",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/charizard-base-set-bs-4-325x447.jpg"
+  },
+  {
+    "name": "Clefairy",
+    "rarity": "rare",
+    "number": "5",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/clefairy-base-set-bs-5-325x447.jpg"
+  },
+  {
+    "name": "Gyarados",
+    "rarity": "rare",
+    "number": "6",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/gyarados-base-set-bs-6-325x447.jpg"
+  },
+  {
+    "name": "Hitmonchan",
+    "rarity": "rare",
+    "number": "7",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/hitmonchan-base-set-bs-7-325x447.jpg"
+  },
+  {
+    "name": "Machamp",
+    "rarity": "rare",
+    "number": "8",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/machamp-base-set-bs-8-325x447.jpg"
+  },
+  {
+    "name": "Magneton",
+    "rarity": "rare",
+    "number": "9",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/magneton-base-set-bs-9-325x447.jpg"
+  },
+  {
+    "name": "Mewtwo",
+    "rarity": "rare",
+    "number": "10",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/mewtwo-base-set-bs-10-325x447.jpg"
+  },
+  {
+    "name": "Nidoking",
+    "rarity": "rare",
+    "number": "11",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/nidoking-base-set-bs-11-325x447.jpg"
+  },
+  {
+    "name": "Ninetales",
+    "rarity": "rare",
+    "number": "12",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/ninetales-base-set-bs-12-325x447.jpg"
+  },
+  {
+    "name": "Poliwrath",
+    "rarity": "rare",
+    "number": "13",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/poliwrath-base-set-bs-13-325x447.jpg"
+  },
+  {
+    "name": "Raichu",
+    "rarity": "rare",
+    "number": "14",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/raichu-base-set-bs-14-325x447.jpg"
+  },
+  {
+    "name": "Venusaur",
+    "rarity": "rare",
+    "number": "15",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/venusaur-base-set-bs-15-325x447.jpg"
+  },
+  {
+    "name": "Zapdos",
+    "rarity": "rare",
+    "number": "16",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/zapdos-base-set-bs-16-325x447.jpg"
+  },
+  {
+    "name": "Beedrill",
+    "rarity": "rare",
+    "number": "17",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/beedrill-base-set-bs-17-325x447.jpg"
+  },
+  {
+    "name": "Dragonair",
+    "rarity": "rare",
+    "number": "18",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/dragonair-base-set-bs-18-325x447.jpg"
+  },
+  {
+    "name": "Dugtrio",
+    "rarity": "rare",
+    "number": "19",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/dugtrio-base-set-bs-19-325x447.jpg"
+  },
+  {
+    "name": "Electabuzz",
+    "rarity": "rare",
+    "number": "20",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/electabuzz-base-set-bs-20-325x447.jpg"
+  },
+    {
+    "name": "Electrode",
+    "rarity": "rare",
+    "number": "21",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/electrode-base-set-bs-21.jpg"
+  },
+  {
+    "name": "Pidgeotto",
+    "rarity": "rare",
+    "number": "22",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pidgeotto-base-set-bs-22-325x447.jpg"
+  },
+  {
+    "name": "Arcanine",
+    "rarity": "uncommon",
+    "number": "23",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/arcanine-base-set-bs-23-325x447.jpg"
+  },
+  {
+    "name": "Charmeleon",
+    "rarity": "uncommon",
+    "number": "24",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/charmeleon-base-set-bs-24-325x447.jpg"
+  },
+    {
+    "name": "Dewgong",
+    "rarity": "uncommon",
+    "number": "25",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/dewgong-base-set-bs-25-325x447.jpg"
+  },
+  {
+    "name": "Dratini",
+    "rarity": "uncommon",
+    "number": "26",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/dratini-base-set-bs-26-325x447.jpg"
+  },
+    {
+    "name": "Farfetch'd",
+    "rarity": "uncommon",
+    "number": "27",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/farfetchd-base-set-bs-27-325x447.jpg"
+  },
+  {
+    "name": "Growlithe",
+    "rarity": "uncommon",
+    "number": "28",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/growlithe-base-set-bs-28-325x447.jpg"
+  },
+    {
+    "name": "Haunter",
+    "rarity": "uncommon",
+    "number": "29",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/haunter-base-set-bs-29-325x447.jpg"
+  },
+  {
+    "name": "Ivysaur",
+    "rarity": "uncommon",
+    "number": "30",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/ivysaur-base-set-bs-30-325x447.jpg"
+  },
+    {
+    "name": "Jynx",
+    "rarity": "uncommon",
+    "number": "31",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/jynx-base-set-bs-31-325x447.jpg"
+  },
+  {
+    "name": "Kadabra",
+    "rarity": "uncommon",
+    "number": "32",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/kadabra-base-set-bs-32-325x447.jpg"
+  },
+    {
+    "name": "Kakuna",
+    "rarity": "uncommon",
+    "number": "33",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/kakuna-base-set-bs-33-325x447.jpg"
+  },
+  {
+    "name": "Machoke",
+    "rarity": "uncommon",
+    "number": "34",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/machoke-base-set-bs-34-325x447.jpg"
+  },
+  {
+    "name": "Magikarp",
+    "rarity": "uncommon",
+    "number": "35",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/magikarp-base-set-bs-35-325x447.jpg"
+  },
+  {
+    "name": "Magmar",
+    "rarity": "uncommon",
+    "number": "36",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/magmar-base-set-bs-36-325x447.jpg"
+  },
+    {
+    "name": "Nidorino",
+    "rarity": "uncommon",
+    "number": "37",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/nidorino-base-set-bs-37-325x447.jpg"
+  },
+  {
+    "name": "Poliwhirl",
+    "rarity": "uncommon",
+    "number": "38",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/poliwhirl-base-set-bs-38-325x447.jpg"
+  },
+  {
+    "name": "Porygon",
+    "rarity": "uncommon",
+    "number": "39",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/porygon-base-set-bs-39-325x447.jpg"
+  },
+  {
+    "name": "Raticate",
+    "rarity": "uncommon",
+    "number": "40",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/raticate-base-set-bs-40-325x447.jpg"
+  },
+    {
+    "name": "Seel",
+    "rarity": "uncommon",
+    "number": "41",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/seel-base-set-bs-41-325x447.jpg"
+  },
+  {
+    "name": "Wartortle",
+    "rarity": "uncommon",
+    "number": "42",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/wartortle-base-set-bs-42-325x447.jpg"
+  },  
+  {
+    "name": "Abra",
+    "rarity": "common",
+    "number": "43",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/abra-base-set-bs-43-325x447.jpg"
+  },
+  {
+    "name": "Bulbasaur",
+    "rarity": "common",
+    "number": "44",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/bulbasaur-base-set-bs-44-325x447.jpg"
+  },
+  {
+    "name": "Caterpie",
+    "rarity": "common",
+    "number": "45",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/caterpie-base-set-bs-45-325x447.jpg"
+  },
+  {
+    "name": "Charmander",
+    "rarity": "common",
+    "number": "46",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/charmander-base-set-bs-46-325x447.jpg"
+  },
+  {
+    "name": "Diglett",
+    "rarity": "common",
+    "number": "47",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/diglett-base-set-bs-47-325x447.jpg"
+  },
+  {
+    "name": "Doduo",
+    "rarity": "common",
+    "number": "48",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/doduo-base-set-bs-48-325x447.jpg"
+  },
+  {
+    "name": "Drowzee",
+    "rarity": "common",
+    "number": "49",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/drowzee-base-set-bs-49-325x447.jpg"
+  },
+  {
+    "name": "Gastly",
+    "rarity": "common",
+    "number": "50",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/gastly-base-set-bs-50-325x447.jpg"
+  },
+  {
+    "name": "Koffing",
+    "rarity": "common",
+    "number": "51",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/koffing-base-set-bs-51-325x447.jpg"
+  },
+  {
+    "name": "Machop",
+    "rarity": "common",
+    "number": "52",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/machop-base-set-bs-52-325x447.jpg"
+  },
+  {
+    "name": "Magnemite",
+    "rarity": "common",
+    "number": "53",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/magnemite-base-set-bs-53-325x447.jpg"
+  },
+  {
+    "name": "Metapod",
+    "rarity": "common",
+    "number": "54",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/metapod-base-set-bs-54-325x447.jpg"
+  },
+  {
+    "name": "Nidoran (male)",
+    "rarity": "common",
+    "number": "55",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/nidoran-male-base-set-bs-55-325x447.jpg"
+  },
+  {
+    "name": "Onix",
+    "rarity": "common",
+    "number": "56",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/onix-base-set-bs-56-325x447.jpg"
+  },
+  {
+    "name": "Pidgey",
+    "rarity": "common",
+    "number": "57",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pidgey-base-set-bs-57-325x447.jpg"
+  },
+  {
+    "name": "Pikachu",
+    "rarity": "common",
+    "number": "58",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pikachu-base-set-bs-58-325x447.jpg"
+  },
+  {
+    "name": "Poliwag",
+    "rarity": "common",
+    "number": "59",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/poliwag-base-set-bs-59-325x447.jpg"
+  },
+  {
+    "name": "Ponyta",
+    "rarity": "common",
+    "number": "60",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/ponyta-base-set-bs-60-325x447.jpg"
+  },
+  {
+    "name": "Rattata",
+    "rarity": "common",
+    "number": "61",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/rattata-base-set-bs-61-325x447.jpg"
+  },
+  {
+    "name": "Sandshrew",
+    "rarity": "common",
+    "number": "62",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/sandshrew-base-set-bs-62-325x447.jpg"
+  },
+  {
+    "name": "Squirtle",
+    "rarity": "common",
+    "number": "63",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/squirtle-base-set-bs-63-325x447.jpg"
+  },
+  {
+    "name": "Starmie",
+    "rarity": "common",
+    "number": "64",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/starmie-base-set-bs-64-325x447.jpg"
+  },
+  {
+    "name": "Staryu",
+    "rarity": "common",
+    "number": "65",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/staryu-base-set-bs-65-325x447.jpg"
+  },
+  {
+    "name": "Tangela",
+    "rarity": "common",
+    "number": "66",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/tangela-base-set-bs-66-325x447.jpg"
+  },
+  {
+    "name": "Voltorb",
+    "rarity": "common",
+    "number": "67",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/voltorb-base-set-bs-67-325x447.jpg"
+  },
+  {
+    "name": "Vulpix",
+    "rarity": "common",
+    "number": "68",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/vulpix-base-set-bs-68-325x447.jpg"
+  },
+  {
+    "name": "Weedle",
+    "rarity": "common",
+    "number": "69",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/weedle-base-set-bs-69-325x447.jpg"
+  },
+    {
+    "name": "Clefairy Doll",
+    "rarity": "rare",
+    "number": "70",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/clefairy-doll-base-set-bs-70-325x447.jpg"
+  },
+    {
+    "name": "Computer Search",
+    "rarity": "rare",
+    "number": "71",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/computer-search-base-set-bs-71-325x447.jpg"
+  },
+    {
+    "name": "Devolution Spray",
+    "rarity": "rare",
+    "number": "72",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/devolution-spray-base-set-bs-72-325x447.jpg"
+  },
+    {
+    "name": "Imposter Professor Oak",
+    "rarity": "rare",
+    "number": "73",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/imposter-professor-oak-base-set-bs-73-325x447.jpg"
+  },
+    {
+    "name": "Item Finder",
+    "rarity": "rare",
+    "number": "74",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/item-finder-base-set-bs-74-325x447.jpg"
+  },
+    {
+    "name": "Lass",
+    "rarity": "rare",
+    "number": "75",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/lass-base-set-bs-75-325x447.jpg"
+  },
+    {
+    "name": "Pokemon Breeder",
+    "rarity": "rare",
+    "number": "76",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pokemon-breeder-base-set-bs-76-325x447.jpg"
+  },
+    {
+    "name": "Pokemon Trader",
+    "rarity": "rare",
+    "number": "77",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pokemon-trader-base-set-bs-77-325x447.jpg"
+  },
+    {
+    "name": "Scoop Up",
+    "rarity": "rare",
+    "number": "78",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/scoop-up-base-set-bs-78-325x447.jpg"
+  },
+    {
+    "name": "Super Energy Removal",
+    "rarity": "rare",
+    "number": "79",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/super-energy-removal-base-set-bs-79-325x447.jpg"
+  },
+    {
+    "name": "Defender",
+    "rarity": "uncommon",
+    "number": "80",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/defender-base-set-bs-80-325x447.jpg"
+  },
+    {
+    "name": "Energy Retrieval",
+    "rarity": "uncommon",
+    "number": "81",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/energy-retrieval-base-set-bs-81-325x447.jpg"
+  },
+    {
+    "name": "Full Heal",
+    "rarity": "uncommon",
+    "number": "82",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/full-heal-base-set-bs-82-325x447.jpg"
+  },
+    {
+    "name": "Maintenance",
+    "rarity": "uncommon",
+    "number": "83",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/maintenance-base-set-bs-83-325x447.jpg"
+  },
+    {
+    "name": "PlusPower",
+    "rarity": "uncommon",
+    "number": "84",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pluspower-base-set-bs-84-325x447.jpg"
+  },
+    {
+    "name": "Pokemon Center",
+    "rarity": "uncommon",
+    "number": "85",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pokemon-center-base-set-bs-85-325x447.jpg"
+  },
+    {
+    "name": "Pokemon Flute",
+    "rarity": "uncommon",
+    "number": "86",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pokemon-flute-base-set-bs-86-325x447.jpg"
+  },
+    {
+    "name": "Pokedex",
+    "rarity": "uncommon",
+    "number": "87",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pokedex-base-set-bs-87-325x447.jpg"
+  },
+    {
+    "name": "Professor Oak",
+    "rarity": "uncommon",
+    "number": "88",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/professor-oak-base-set-bs-88-325x447.jpg"
+  },
+    {
+    "name": "Revive",
+    "rarity": "uncommon",
+    "number": "89",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/revive-base-set-bs-89-325x447.jpg"
+  },
+    {
+    "name": "Super Potion",
+    "rarity": "uncommon",
+    "number": "90",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/super-potion-base-set-bs-90-325x447.jpg"
+  },
+    {
+    "name": "Bill",
+    "rarity": "common",
+    "number": "91",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/bill-base-set-bs-91-325x447.jpg"
+  },
+    {
+    "name": "Energy Removal",
+    "rarity": "common",
+    "number": "92",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/energy-removal-base-set-bs-92-325x447.jpg"
+  },
+    {
+    "name": "Gust of Wind",
+    "rarity": "common",
+    "number": "93",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/gust-of-wind-base-set-bs-93-325x447.jpg"
+  },
+    {
+    "name": "Potion",
+    "rarity": "common",
+    "number": "94",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/potion-base-set-bs-94-325x447.jpg"
+  },
+    {
+    "name": "Switch",
+    "rarity": "common",
+    "number": "95",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/switch-base-set-bs-95-325x447.jpg"
+  },
+    {
+    "name": "Double Colorless Energy",
+    "rarity": "energy",
+    "number": "96",
+    "image_url": "https://pkmncards.com/wp-content/uploads/double-colorless-energy-base-set-bs-96-325x447.jpg"
+  },
+    {
+    "name": "Fighting Energy",
+    "rarity": "energy",
+    "number": "97",
+    "image_url": "https://pkmncards.com/wp-content/uploads/fighting-energy-base-set-bs-97-325x447.jpg"
+  },
+    {
+    "name": "Fire Energy",
+    "rarity": "energy",
+    "number": "98",
+    "image_url": "https://pkmncards.com/wp-content/uploads/fire-energy-base-set-bs-98-325x447.jpg"
+  },
+    {
+    "name": "Grass Energy",
+    "rarity": "energy",
+    "number": "99",
+    "image_url": "https://pkmncards.com/wp-content/uploads/grass-energy-base-set-bs-99-325x447.jpg"
+  },
+    {
+    "name": "Lightning Energy",
+    "rarity": "energy",
+    "number": "100",
+    "image_url": "https://pkmncards.com/wp-content/uploads/lightning-energy-base-set-bs-100-325x447.jpg"
+  },
+    {
+    "name": "Psychic Energy",
+    "rarity": "energy",
+    "number": "101",
+    "image_url": "https://pkmncards.com/wp-content/uploads/psychic-energy-base-set-bs-101-325x447.jpg"
+  },
+    {
+    "name": "Water Energy",
+    "rarity": "energy",
+    "number": "102",
+    "image_url": "https://pkmncards.com/wp-content/uploads/water-energy-base-set-bs-102-325x447.jpg"
+  }
+]
+}
+
+
+ 

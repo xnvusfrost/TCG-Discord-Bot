@@ -1,0 +1,496 @@
+{
+  "pack_image_url": "https://tcgplayer-cdn.tcgplayer.com/product/138128_in_1000x1000.jpg",
+  "cards":
+[
+  {
+    "name": "Clefable",
+    "rarity": "rare",
+    "number": "1",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/clefable-jungle-ju-1.jpg"
+  },
+  {
+    "name": "Electrode",
+    "rarity": "rare",
+    "number": "2",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/electrode-jungle-ju-2.jpg"
+  },
+  {
+    "name": "Flareon",
+    "rarity": "rare",
+    "number": "3",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/flareon-jungle-ju-3.jpg"
+  },
+  {
+    "name": "Jolteon",
+    "rarity": "rare",
+    "number": "4",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/jolteon-jungle-ju-4.jpg"
+  },
+  {
+    "name": "Kangaskhan",
+    "rarity": "rare",
+    "number": "5",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/kangaskhan-jungle-ju-5.jpg"
+  },
+  {
+    "name": "Mr. Mime",
+    "rarity": "rare",
+    "number": "6",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/mr-mime-jungle-ju-6.jpg"
+  },
+  {
+    "name": "Nidoqueen",
+    "rarity": "rare",
+    "number": "7",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/nidoqueen-jungle-ju-7.jpg"
+  },
+  {
+    "name": "Pidgeot",
+    "rarity": "rare",
+    "number": "8",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pidgeot-jungle-ju-8.jpg"
+  },
+  {
+    "name": "Pinsir",
+    "rarity": "rare",
+    "number": "9",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pinsir-jungle-ju-9.jpg"
+  },
+  {
+    "name": "Scyther",
+    "rarity": "rare",
+    "number": "10",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/scyther-jungle-ju-10.jpg"
+  },
+  {
+    "name": "Snorlax",
+    "rarity": "rare",
+    "number": "11",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/snorlax-jungle-ju-11.jpg"
+  },
+  {
+    "name": "Vaporeon",
+    "rarity": "rare",
+    "number": "12",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/vaporeon-jungle-ju-12.jpg"
+  },
+  {
+    "name": "Venomoth",
+    "rarity": "rare",
+    "number": "13",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/venomoth-jungle-ju-13.jpg"
+  },
+  {
+    "name": "Victreebel",
+    "rarity": "rare",
+    "number": "14",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/victreebel-jungle-ju-14.jpg"
+  },
+  {
+    "name": "Vileplume",
+    "rarity": "rare",
+    "number": "15",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/vileplume-jungle-ju-15.jpg"
+  },
+  {
+    "name": "Wigglytuff",
+    "rarity": "rare",
+    "number": "16",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/wigglytuff-jungle-ju-16.jpg"
+  },
+  {
+    "name": "Clefable",
+    "rarity": "rare",
+    "number": "17",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/clefable-jungle-ju-17.jpg"
+  },
+  {
+    "name": "Electrode",
+    "rarity": "rare",
+    "number": "18",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/electrode-base-set-bs-18-325x447.jpg"
+  },
+  {
+    "name": "Flareon",
+    "rarity": "rare",
+    "number": "19",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/flareon-jungle-ju-19.jpg"
+  },
+  {
+    "name": "Jolteon",
+    "rarity": "rare",
+    "number": "20",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/jolteon-jungle-ju-20.jpg"
+  },
+    {
+    "name": "Kangaskhan",
+    "rarity": "rare",
+    "number": "21",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/kangaskhan-jungle-ju-21.jpg"
+  },
+  {
+    "name": "Mr. Mime",
+    "rarity": "rare",
+    "number": "22",
+    "type": "Psychic",
+    "image_url": "https://pkmncards.com/wp-content/uploads/mr-mime-jungle-ju-22.jpg"
+  },
+  {
+    "name": "Nidoqueen",
+    "rarity": "rare",
+    "number": "23",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/nidoqueen-jungle-ju-23.jpg"
+  },
+  {
+    "name": "Pidgeot",
+    "rarity": "rare",
+    "number": "24",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pidgeot-jungle-ju-24.jpg"
+  },
+    {
+    "name": "Pinsir",
+    "rarity": "rare",
+    "number": "25",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pinsir-jungle-ju-25.jpg"
+  },
+  {
+    "name": "Scyther",
+    "rarity": "rare",
+    "number": "26",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/scyther-jungle-ju-26.jpg"
+  },
+    {
+    "name": "Snorlax",
+    "rarity": "rare",
+    "number": "27",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/snorlax-jungle-ju-27.jpg"
+  },
+  {
+    "name": "Vaporeon",
+    "rarity": "rare",
+    "number": "28",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/vaporeon-jungle-ju-28.jpg"
+  },
+    {
+    "name": "Venomoth",
+    "rarity": "rare",
+    "number": "29",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/venomoth-jungle-ju-29.jpg"
+  },
+  {
+    "name": "Victreebel",
+    "rarity": "rare",
+    "number": "30",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/victreebel-jungle-ju-30.jpg"
+  },
+    {
+    "name": "Vileplume",
+    "rarity": "rare",
+    "number": "31",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/vileplume-jungle-ju-31.jpg"
+  },
+  {
+    "name": "Wigglytuff",
+    "rarity": "rare",
+    "number": "32",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/wigglytuff-jungle-ju-32.jpg"
+  },
+    {
+    "name": "Butterfree",
+    "rarity": "uncommon",
+    "number": "33",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/butterfree-jungle-ju-33.jpg"
+  },
+  {
+    "name": "Dodrio",
+    "rarity": "uncommon",
+    "number": "34",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/dodrio-base-set-bs-34-325x447.jpg"
+  },
+  {
+    "name": "Exeggutor",
+    "rarity": "uncommon",
+    "number": "35",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/exeggutor-jungle-ju-35.jpg"
+  },
+  {
+    "name": "Fearow",
+    "rarity": "uncommon",
+    "number": "36",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/fearow-jungle-ju-36.jpg"
+  },
+    {
+    "name": "Gloom",
+    "rarity": "uncommon",
+    "number": "37",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/gloom-jungle-ju-37.jpg"
+  },
+  {
+    "name": "Lickitung",
+    "rarity": "uncommon",
+    "number": "38",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/lickitung-jungle-ju-38.jpg"
+  },
+  {
+    "name": "Marowak",
+    "rarity": "uncommon",
+    "number": "39",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/marowak-jungle-ju-39.jpg"
+  },
+  {
+    "name": "Nidorina",
+    "rarity": "uncommon",
+    "number": "40",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/nidorina-jungle-ju-40.jpg"
+  },
+    {
+    "name": "Parasect",
+    "rarity": "uncommon",
+    "number": "41",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/parasect-jungle-ju-41.jpg"
+  },
+  {
+    "name": "Persian",
+    "rarity": "uncommon",
+    "number": "42",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/persian-jungle-ju-42.jpg"
+  },
+  {
+    "name": "Primeape",
+    "rarity": "uncommon",
+    "number": "43",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/primeape-jungle-ju-43.jpg"
+  },
+  {
+    "name": "Rapidash",
+    "rarity": "uncommon",
+    "number": "44",
+    "type": "Fire",
+    "image_url": "https://pkmncards.com/wp-content/uploads/rapidash-jungle-ju-44.jpg"
+  },
+  {
+    "name": "Rhydon",
+    "rarity": "uncommon",
+    "number": "45",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/rhydon-jungle-ju-45.jpg"
+  },
+  {
+    "name": "Seaking",
+    "rarity": "uncommon",
+    "number": "46",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/seaking-jungle-ju-46.jpg"
+  },
+  {
+    "name": "Tauros",
+    "rarity": "uncommon",
+    "number": "47",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/tauros-jungle-ju-47.jpg"
+  },
+  {
+    "name": "Weepinbell",
+    "rarity": "uncommon",
+    "number": "48",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/weepinbell-jungle-ju-48.jpg"
+  },
+  {
+    "name": "Bellsprout",
+    "rarity": "common",
+    "number": "49",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/bellsprout-jungle-ju-49.jpg"
+  },
+  {
+    "name": "Cubone",
+    "rarity": "common",
+    "number": "50",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/cubone-jungle-ju-50.jpg"
+  },
+  {
+    "name": "Eevee",
+    "rarity": "common",
+    "number": "51",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/eevee-jungle-ju-51.jpg"
+  },
+  {
+    "name": "Exeggcute",
+    "rarity": "common",
+    "number": "52",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/exeggcute-jungle-ju-52.jpg"
+  },
+  {
+    "name": "Goldeen",
+    "rarity": "common",
+    "number": "53",
+    "type": "Water",
+    "image_url": "https://pkmncards.com/wp-content/uploads/goldeen-jungle-ju-53.jpg"
+  },
+  {
+    "name": "Jigglypuff",
+    "rarity": "common",
+    "number": "54",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/jigglypuff-jungle-ju-54.jpg"
+  },
+  {
+    "name": "Mankey",
+    "rarity": "common",
+    "number": "55",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/mankey-jungle-ju-55.jpg"
+  },
+  {
+    "name": "Meowth",
+    "rarity": "common",
+    "number": "56",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/meowth-jungle-ju-56.jpg"
+  },
+  {
+    "name": "Nidoran ♀",
+    "rarity": "common",
+    "number": "57",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/nidoran-female-jungle-ju-57.jpg"
+  },
+  {
+    "name": "Oddish",
+    "rarity": "common",
+    "number": "58",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/oddish-jungle-ju-58.jpg"
+  },
+  {
+    "name": "Paras",
+    "rarity": "common",
+    "number": "59",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/paras-jungle-ju-59.jpg"
+  },
+  {
+    "name": "Pikachu",
+    "rarity": "common",
+    "number": "60",
+    "type": "Electric",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pikachu-jungle-ju-60.jpg"
+  },
+  {
+    "name": "Rhyhorn",
+    "rarity": "common",
+    "number": "61",
+    "type": "Fighting",
+    "image_url": "https://pkmncards.com/wp-content/uploads/rhyhorn-jungle-ju-61.jpg"
+  },
+  {
+    "name": "Spearow",
+    "rarity": "common",
+    "number": "62",
+    "type": "Colorless",
+    "image_url": "https://pkmncards.com/wp-content/uploads/spearow-jungle-ju-62.jpg"
+  },
+  {
+    "name": "Venonat",
+    "rarity": "common",
+    "number": "63",
+    "type": "Grass",
+    "image_url": "https://pkmncards.com/wp-content/uploads/venonat-jungle-ju-63.jpg"
+  },
+  {
+    "name": "Pokeball",
+    "rarity": "common",
+    "number": "64",
+    "type": "Trainer",
+    "image_url": "https://pkmncards.com/wp-content/uploads/pokeball-jungle-ju-64.jpg"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "rarity": "energy",
+    "number": "96",
+    "image_url": "https://pkmncards.com/wp-content/uploads/double-colorless-energy-base-set-bs-96-325x447.jpg"
+  },
+    {
+    "name": "Fighting Energy",
+    "rarity": "energy",
+    "number": "97",
+    "image_url": "https://pkmncards.com/wp-content/uploads/fighting-energy-base-set-bs-97-325x447.jpg"
+  },
+    {
+    "name": "Fire Energy",
+    "rarity": "energy",
+    "number": "98",
+    "image_url": "https://pkmncards.com/wp-content/uploads/fire-energy-base-set-bs-98-325x447.jpg"
+  },
+    {
+    "name": "Grass Energy",
+    "rarity": "energy",
+    "number": "99",
+    "image_url": "https://pkmncards.com/wp-content/uploads/grass-energy-base-set-bs-99-325x447.jpg"
+  },
+    {
+    "name": "Lightning Energy",
+    "rarity": "energy",
+    "number": "100",
+    "image_url": "https://pkmncards.com/wp-content/uploads/lightning-energy-base-set-bs-100-325x447.jpg"
+  },
+    {
+    "name": "Psychic Energy",
+    "rarity": "energy",
+    "number": "101",
+    "image_url": "https://pkmncards.com/wp-content/uploads/psychic-energy-base-set-bs-101-325x447.jpg"
+  },
+    {
+    "name": "Water Energy",
+    "rarity": "energy",
+    "number": "102",
+    "image_url": "https://pkmncards.com/wp-content/uploads/water-energy-base-set-bs-102-325x447.jpg"
+  }
+  ]
+}
