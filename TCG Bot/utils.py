@@ -1,73 +1,41 @@
 import json
 import os
+import discord
+import urllib.parse
 
 DATA_FOLDER = "data"
-BALANCE_FILE = os.path.join(DATA_FOLDER, "balances.json")
-PACKS_FILE = os.path.join(DATA_FOLDER, "user_packs.json")
-
 os.makedirs(DATA_FOLDER, exist_ok=True)
 
-def load_json(filename):
-    if not os.path.exists(filename):
-        with open(filename, "w") as f:
-            json.dump({}, f)
-    with open(filename, "r") as f:
+def get_user_folder(user_id):
+    folder = os.path.join(DATA_FOLDER, "user", str(user_id))
+    os.makedirs(folder, exist_ok=True)
+    return folder
+
+def get_user_file(user_id, filename):
+    folder = get_user_folder(user_id)
+    return os.path.join(folder, filename)
+
+def load_user_file(user_id, filename):
+    path = get_user_file(user_id, filename)
+    if not os.path.exists(path):
+        return {}
+    with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def save_json(filename, data):
-    with open(filename, "w") as f:
+def save_user_file(user_id, filename, data):
+    path = get_user_file(user_id, filename)
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
 
-def get_balance(user_id) -> int:
-    user_id = str(user_id)
-    balances = load_json(BALANCE_FILE)
-    entry = balances.get(user_id, {})
-    if isinstance(entry, dict):
-        return entry.get("balance", 0)
-    return entry  # fallback for old format
+def user_packs(user_id):
+    packs = load_user_file(user_id, "user_packs.json")
+    return packs if packs else []
 
-def add_balance(user_id, amount: int):
-    user_id = str(user_id)
-    balances = load_json(BALANCE_FILE)
-    entry = balances.get(user_id, {})
-    if not isinstance(entry, dict):
-        entry = {"balance": entry, "last_daily": None}
-    old_balance = entry.get("balance", 0)
-    entry["balance"] = old_balance + amount
-    balances[user_id] = entry
-    save_json(BALANCE_FILE, balances)
-
-def get_last_daily(user_id):
-    user_id = str(user_id)
-    balances = load_json(BALANCE_FILE)
-    entry = balances.get(user_id, {})
-    if isinstance(entry, dict):
-        return entry.get("last_daily")
-    return None
-
-def set_last_daily(user_id, timestamp):
-    user_id = str(user_id)
-    balances = load_json(BALANCE_FILE)
-    entry = balances.get(user_id, {})
-    if not isinstance(entry, dict):
-        entry = {"balance": entry, "last_daily": None}
-    entry["last_daily"] = timestamp
-    balances[user_id] = entry
-    save_json(BALANCE_FILE, balances)
-
-def user_packs(user_id) -> list:
-    user_id = str(user_id)
-    packs = load_json(PACKS_FILE)
-    return packs.get(user_id, [])
-
-def save_user_packs(user_id, pack_list: list):
-    user_id = str(user_id)
-    packs = load_json(PACKS_FILE)
-    packs[user_id] = pack_list
-    save_json(PACKS_FILE, packs)
+def save_user_packs(user_id, packs):
+    save_user_file(user_id, "user_packs.json", packs)
 
 def load_pack(pack_name: str) -> dict:
-    pack_path = os.path.join("data", "cardpacks", f"{pack_name}.json")
+    pack_path = os.path.join(DATA_FOLDER, "cardpacks", f"{pack_name}.json")
     if not os.path.exists(pack_path):
         return {}
     with open(pack_path, "r") as f:
@@ -75,25 +43,8 @@ def load_pack(pack_name: str) -> dict:
 
 def add_cards_to_collection(user_id, cards, pack_name):
     user_id = str(user_id)
-    users_path = os.path.join("data", "users.json")
-    duplicates_path = os.path.join("data", "duplicates.json")
-
-    # Load user collection
-    if os.path.exists(users_path):
-        with open(users_path, "r") as f:
-            users = json.load(f)
-    else:
-        users = {}
-
-    # Load duplicates
-    if os.path.exists(duplicates_path):
-        with open(duplicates_path, "r") as f:
-            duplicates = json.load(f)
-    else:
-        duplicates = {}
-
-    user_cards = users.get(user_id, [])
-    user_dupes = duplicates.get(user_id, [])
+    user_cards = load_user_file(user_id, "cards.json").get("cards", [])
+    user_dupes = load_user_file(user_id, "duplicates.json").get("duplicates", [])
 
     # Helper: find card in a list by name/number/pack
     def find_card(card_list, card):
@@ -124,10 +75,28 @@ def add_cards_to_collection(user_id, cards, pack_name):
         else:
             user_cards.append(card_copy)
 
-    users[user_id] = user_cards
-    duplicates[user_id] = user_dupes
+    save_user_file(user_id, "cards.json", {"cards": user_cards})
+    save_user_file(user_id, "duplicates.json", {"duplicates": user_dupes})
 
-    with open(users_path, "w") as f:
-        json.dump(users, f, indent=4)
-    with open(duplicates_path, "w") as f:
-        json.dump(duplicates, f, indent=4)
+async def export_image_links(bot, channel_id):
+    """
+    Export image links for each pack into a separate .txt file.
+    Each file will be named discord_image_links_<packname>.txt
+    """
+    packs_dir = os.path.join(DATA_FOLDER, "cardpacks")
+    for filename in os.listdir(packs_dir):
+        if filename.endswith(".json"):
+            packname = filename[:-5]
+            path = os.path.join(packs_dir, filename)
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            cards = data.get("cards", data)  # support both dict with "cards" or list
+            links = []
+            for card in cards:
+                url = card.get("image_url")
+                if url:
+                    links.append(url)
+            # Write to a separate file for each pack
+            out_path = f"discord_image_links_{packname}.txt"
+            with open(out_path, "w", encoding="utf-8") as out_f:
+                out_f.write("\n".join(links))

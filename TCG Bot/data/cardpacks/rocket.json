@@ -1,0 +1,628 @@
+{
+  "pack_image_url": "https://github.com/xnvusfrost/Pokemon-Card-Packs/blob/main/Base%20Pack/Basesetpack.jpg?raw=true",
+  "cards": [
+    {
+      "name": "Dark Alakazam",
+      "rarity": "rare",
+      "number": "1",
+      "type": "Psychic",
+      "image_url": "https://i.ibb.co/0VrK94js/4cae481a844b.jpg"
+    },
+    {
+      "name": "Dark Arbok",
+      "rarity": "rare",
+      "number": "2",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/C31Gc6T5/7f5583115afe.jpg"
+    },
+    {
+      "name": "Dark Blastoise",
+      "rarity": "rare",
+      "number": "3",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/v2r33Tv/87d2e7eb8d58.jpg"
+    },
+    {
+      "name": "Dark Charizard",
+      "rarity": "rare",
+      "number": "4",
+      "type": "Fire",
+      "image_url": "https://i.ibb.co/5XCj1N86/ebc107be3749.jpg"
+    },
+    {
+      "name": "Dark Dragonite",
+      "rarity": "rare",
+      "number": "5",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/gbmW7gws/77b12a0a969f.jpg"
+    },
+    {
+      "name": "Dark Dugtrio",
+      "rarity": "rare",
+      "number": "6",
+      "type": "Ground",
+      "image_url": "https://i.ibb.co/d4sm1kQJ/095b8a905639.jpg"
+    },
+    {
+      "name": "Dark Golbat",
+      "rarity": "rare",
+      "number": "7",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/99CknR41/10efaa68735e.jpg"
+    },
+    {
+      "name": "Dark Gyarados",
+      "rarity": "rare",
+      "number": "8",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/1f4NCd58/f89954868b56.jpg"
+    },
+    {
+      "name": "Dark Hypno",
+      "rarity": "rare",
+      "number": "9",
+      "type": "Psychic",
+      "image_url": "https://i.ibb.co/bRBxsvnB/39bd3df943bb.jpg"
+    },
+    {
+      "name": "Dark Machamp",
+      "rarity": "rare",
+      "number": "10",
+      "type": "Fighting",
+      "image_url": "https://i.ibb.co/tPbnT0zC/0633a4760874.jpg"
+    },
+    {
+      "name": "Dark Magneton",
+      "rarity": "rare",
+      "number": "11",
+      "type": "Electric",
+      "image_url": "https://i.ibb.co/8tvqLyn/ceaa091f0e06.jpg"
+    },
+    {
+      "name": "Dark Slowbro",
+      "rarity": "rare",
+      "number": "12",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/n8DXWWYh/62fa7216e835.jpg"
+    },
+    {
+      "name": "Dark Vileplume",
+      "rarity": "rare",
+      "number": "13",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/zh2pjRW1/45d52c45310b.jpg"
+    },
+    {
+      "name": "Dark Weezing",
+      "rarity": "rare",
+      "number": "14",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/Mkymc8zY/ebd8119713d1.jpg"
+    },
+    {
+      "name": "Here Comes Team Rocket",
+      "rarity": "rare",
+      "number": "15",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/ycS8t7RY/127bb7ef4de7.jpg"
+    },
+    {
+      "name": "Rocket's Sneak Attack",
+      "rarity": "rare",
+      "number": "16",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/M5xDkxKD/db0dad83cc5e.jpg"
+    },
+    {
+      "name": "Rainbow Energy",
+      "rarity": "rare",
+      "number": "17",
+      "type": "Energy",
+      "image_url": "https://i.ibb.co/d0gmwC0K/3d1a9c688bcd.jpg"
+    },
+    {
+      "name": "Dark Alakazam",
+      "rarity": "rare",
+      "number": "18",
+      "type": "Psychic",
+      "image_url": "https://i.ibb.co/RGdf5sSQ/b1be38e14576.jpg"
+    },
+    {
+      "name": "Dark Arbok",
+      "rarity": "rare",
+      "number": "19",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/Df7Mhg1v/fe7c6c303a38.jpg"
+    },
+    {
+      "name": "Dark Blastoise",
+      "rarity": "rare",
+      "number": "20",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/kgVm6x4C/e0017d1d9f71.jpg"
+    },
+    {
+      "name": "Dark Charizard",
+      "rarity": "rare",
+      "number": "21",
+      "type": "Fire",
+      "image_url": "https://i.ibb.co/d4nNmVHj/25d38bb04d81.jpg"
+    },
+    {
+      "name": "Dark Dragonite",
+      "rarity": "rare",
+      "number": "22",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/5hSVVYpc/bdb6abc8abda.jpg"
+    },
+    {
+      "name": "Dark Dugtrio",
+      "rarity": "rare",
+      "number": "23",
+      "type": "Fighting",
+      "image_url": "https://i.ibb.co/7tp208Hp/eb90fbef79f2.jpg"
+    },
+    {
+      "name": "Dark Golbat",
+      "rarity": "rare",
+      "number": "24",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/8gDy9Ry3/1f1a58eaea84.jpg"
+    },
+    {
+      "name": "Dark Gyarados",
+      "rarity": "rare",
+      "number": "25",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/LzDMBNLR/d677acac41b5.jpg"
+    },
+    {
+      "name": "Dark Hypno",
+      "rarity": "rare",
+      "number": "26",
+      "type": "Psychic",
+      "image_url": "https://i.ibb.co/h1MnF6vD/d3380bf5422c.jpg"
+    },
+    {
+      "name": "Dark Machamp",
+      "rarity": "rare",
+      "number": "27",
+      "type": "Fighting",
+      "image_url": "https://i.ibb.co/9msTfxYr/680eb82b6e41.jpg"
+    },
+    {
+      "name": "Dark Magneton",
+      "rarity": "rare",
+      "number": "28",
+      "type": "Electric",
+      "image_url": "https://i.ibb.co/qF7Fy2m0/69ded76ca162.jpg"
+    },
+    {
+      "name": "Dark Slowbro",
+      "rarity": "rare",
+      "number": "29",
+      "type": "Psychic",
+      "image_url": "https://i.ibb.co/d4hvdVc4/18ac017a6dfb.jpg"
+    },
+    {
+      "name": "Dark Vileplume",
+      "rarity": "rare",
+      "number": "30",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/Y7h8Qg4Q/f9b8c6c3b4b9.jpg"
+    },
+    {
+      "name": "Dark Weezing",
+      "rarity": "rare",
+      "number": "31",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/G46J6Rw2/e8e23b34bc7e.jpg"
+    },
+    {
+      "name": "Dark Charmeleon",
+      "rarity": "uncommon",
+      "number": "32",
+      "type": "Fire",
+      "image_url": "https://i.ibb.co/Y7P53RPn/33380a607bc3.jpg"
+    },
+    {
+      "name": "Dark Dragonair",
+      "rarity": "uncommon",
+      "number": "33",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/Jw698w1X/153bacde107f.jpg"
+    },
+    {
+      "name": "Dark Electrode",
+      "rarity": "uncommon",
+      "number": "34",
+      "type": "Electric",
+      "image_url": "https://i.ibb.co/5gM08tk6/d18c6561ec75.jpg"
+    },
+    {
+      "name": "Dark Flareon",
+      "rarity": "uncommon",
+      "number": "35",
+      "type": "Fire",
+      "image_url": "https://i.ibb.co/DPZG8zgr/42a90cbf35f9.jpg"
+    },
+    {
+      "name": "Dark Gloom",
+      "rarity": "uncommon",
+      "number": "36",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/jZVTy8h1/3af33e8a5d75.jpg"
+    },
+    {
+      "name": "Dark Golduck",
+      "rarity": "uncommon",
+      "number": "37",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/yn39GyHN/65e0f570dcef.jpg"
+    },
+    {
+      "name": "Dark Jolteon",
+      "rarity": "uncommon",
+      "number": "38",
+      "type": "Electric",
+      "image_url": "https://i.ibb.co/MydLBQ0p/9c4826ac3f6a.jpg"
+    },
+    {
+      "name": "Dark Kadabra",
+      "rarity": "uncommon",
+      "number": "39",
+      "type": "Psychic",
+      "image_url": "https://i.ibb.co/qLj9hHvR/1a9ffc16041c.jpg"
+    },
+    {
+      "name": "Dark Machoke",
+      "rarity": "uncommon",
+      "number": "40",
+      "type": "Fighting",
+      "image_url": "https://i.ibb.co/4wW2kL17/659e099a3952.jpg"
+    },
+    {
+      "name": "Dark Muk",
+      "rarity": "uncommon",
+      "number": "41",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/hxZx3h9y/a118a15cd0a2.jpg"
+    },
+    {
+      "name": "Dark Persian",
+      "rarity": "uncommon",
+      "number": "42",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/Z6DYp4y6/25cce1ebeb95.jpg"
+    },
+    {
+      "name": "Dark Primeape",
+      "rarity": "uncommon",
+      "number": "43",
+      "type": "Fighting",
+      "image_url": "https://i.ibb.co/5X0nQmHX/289f0bf6b562.jpg"
+    },
+    {
+      "name": "Dark Rapidash",
+      "rarity": "uncommon",
+      "number": "44",
+      "type": "Fire",
+      "image_url": "https://i.ibb.co/SXfj41rh/20f6dbfa8fb7.jpg"
+    },
+    {
+      "name": "Dark Vaporeon",
+      "rarity": "uncommon",
+      "number": "45",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/9mpQJZXR/a0546fb3f2f5.jpg"
+    },
+    {
+      "name": "Dark Wartortle",
+      "rarity": "uncommon",
+      "number": "46",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/N6fjKnFZ/4b3fb03917b9.jpg"
+    },
+    {
+      "name": "Magikarp",
+      "rarity": "uncommon",
+      "number": "47",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/Mk18ny6m/fa2683c93827.jpg"
+    },
+    {
+      "name": "Porygon",
+      "rarity": "common",
+      "number": "48",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/PsDswsk0/55c9afa662c6.jpg"
+    },
+    {
+      "name": "Abra",
+      "rarity": "common",
+      "number": "49",
+      "type": "Psychic",
+      "image_url": "https://i.ibb.co/4wfnS92F/d376dd7da61c.jpg"
+    },
+    {
+      "name": "Charmander",
+      "rarity": "common",
+      "number": "50",
+      "type": "Fire",
+      "image_url": "https://i.ibb.co/xqv60Yxc/ffd5a24feba2.jpg"
+    },
+    {
+      "name": "Dark Raticate",
+      "rarity": "common",
+      "number": "51",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/mCgv01mG/ade5ee56b4b6.jpg"
+    },
+    {
+      "name": "Diglett",
+      "rarity": "common",
+      "number": "52",
+      "type": "Fighting",
+      "image_url": "https://i.ibb.co/BKtbDBnw/12b5e85e382d.jpg"
+    },
+    {
+      "name": "Dratini",
+      "rarity": "common",
+      "number": "53",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/hR42zPWf/aae1c56b4c21.jpg"
+    },
+    {
+      "name": "Drowzee",
+      "rarity": "common",
+      "number": "54",
+      "type": "Psychic",
+      "image_url": "https://i.ibb.co/Z1Gn3dMv/c231aa252223.jpg"
+    },
+    {
+      "name": "Eevee",
+      "rarity": "common",
+      "number": "55",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/bRG1q8BP/dfa808ed35bf.jpg"
+    },
+    {
+      "name": "Ekans",
+      "rarity": "common",
+      "number": "56",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/XxkV3cCk/3c5613b6cc87.jpg"
+    },
+    {
+      "name": "Grimer",
+      "rarity": "common",
+      "number": "57",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/XkLdwWXJ/fbf7eed16f3a.jpg"
+    },
+    {
+      "name": "Koffing",
+      "rarity": "common",
+      "number": "58",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/93nf53c5/59840f43f833.jpg"
+    },
+    {
+      "name": "Machop",
+      "rarity": "common",
+      "number": "59",
+      "type": "Fighting",
+      "image_url": "https://i.ibb.co/TxTtBGH9/31de9b868772.jpg"
+    },
+    {
+      "name": "Magnemite",
+      "rarity": "common",
+      "number": "60",
+      "type": "Electric",
+      "image_url": "https://i.ibb.co/3mkPJ1Cq/62e5b08f3fbc.jpg"
+    },
+    {
+      "name": "Mankey",
+      "rarity": "common",
+      "number": "61",
+      "type": "Fighting",
+      "image_url": "https://i.ibb.co/5gxTdyt5/b70baf972df6.jpg"
+    },
+    {
+      "name": "Meowth",
+      "rarity": "common",
+      "number": "62",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/Rkwn8Rdr/c0061fc2a77b.jpg"
+    },
+    {
+      "name": "Oddish",
+      "rarity": "common",
+      "number": "63",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/0VRMw8kD/a1a36502481f.jpg"
+    },
+    {
+      "name": "Ponyta",
+      "rarity": "common",
+      "number": "64",
+      "type": "Fire",
+      "image_url": "https://i.ibb.co/pGwmq6D/c19dad67b78f.jpg"
+    },
+    {
+      "name": "Psyduck",
+      "rarity": "common",
+      "number": "65",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/Z6RS6S7C/54de190874c0.jpg"
+    },
+    {
+      "name": "Rattata",
+      "rarity": "common",
+      "number": "66",
+      "type": "Colorless",
+      "image_url": "https://i.ibb.co/HD55GPQR/1549cbeba80a.jpg"
+    },
+    {
+      "name": "Slowpoke",
+      "rarity": "common",
+      "number": "67",
+      "type": "Psychic",
+      "image_url": "https://i.ibb.co/LmmJtZ5/1010a6378a25.jpg"
+    },
+    {
+      "name": "Squirtle",
+      "rarity": "common",
+      "number": "68",
+      "type": "Water",
+      "image_url": "https://i.ibb.co/qLkxvfBf/1d2ce24d2355.jpg"
+    },
+    {
+      "name": "Voltorb",
+      "rarity": "common",
+      "number": "69",
+      "type": "Electric",
+      "image_url": "https://i.ibb.co/5XHBYMcZ/4e041fc8f8ad.jpg"
+    },
+    {
+      "name": "Zubat",
+      "rarity": "common",
+      "number": "70",
+      "type": "Grass",
+      "image_url": "https://i.ibb.co/7d9JMY9p/6d6276be20fc.jpg"
+    },
+    {
+      "name": "Here Comes Team Rocket",
+      "rarity": "rare",
+      "number": "71",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/KTJTLzp/8c48ba8ab6a9.jpg"
+    },
+    {
+      "name": "Rocket's Sneak Attack",
+      "rarity": "rare",
+      "number": "72",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/zhd6CnQD/4b627a290394.jpg"
+    },
+    {
+      "name": "The Boss's Way",
+      "rarity": "uncommon",
+      "number": "73",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/FkVxV8Hs/9b59797d7dbb.jpg"
+    },
+    {
+      "name": "Challenge!",
+      "rarity": "uncommon",
+      "number": "74",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/pj7g17pf/e330f60a496b.jpg"
+    },
+    {
+      "name": "Digger",
+      "rarity": "uncommon",
+      "number": "75",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/VYr5z41X/44eb04120d3f.jpg"
+    },
+    {
+      "name": "Imposter Oak's Revenge",
+      "rarity": "uncommon",
+      "number": "76",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/FbsHPGfm/db18ef0000fd.jpg"
+    },
+    {
+      "name": "Nightly Garbage Run",
+      "rarity": "uncommon",
+      "number": "77",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/PvV2ScR0/08b16d6aa91a.jpg"
+    },
+    {
+      "name": "Goop Gas Attack",
+      "rarity": "common",
+      "number": "78",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/jkBXbgw1/dec60e995bc4.jpg"
+    },
+    {
+      "name": "Sleep!",
+      "rarity": "common",
+      "number": "79",
+      "type": "Trainer",
+      "image_url": "https://i.ibb.co/ynNQtpnN/95a0d4ad63cd.jpg"
+    },
+    {
+      "name": "Rainbow Energy",
+      "rarity": "rare",
+      "number": "80",
+      "type": "Energy",
+      "image_url": "https://i.ibb.co/FkcS3tsq/df8873c1a407.jpg"
+    },
+    {
+      "name": "Full Heal Energy",
+      "rarity": "uncommon",
+      "number": "81",
+      "type": "Energy",
+      "image_url": "https://i.ibb.co/fGXHck2h/fc807ae7f6d2.jpg"
+    },
+    {
+      "name": "Potion Energy",
+      "rarity": "uncommon",
+      "number": "82",
+      "type": "Energy",
+      "image_url": "https://i.ibb.co/d90nW6f/69d68e9e5b02.jpg"
+    },
+    {
+      "name": "Dark Raichu",
+      "rarity": "rare",
+      "number": "83",
+      "type": "Electric",
+      "image_url": "https://i.ibb.co/cmRb8PY/b9fb646726b0.jpg"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "rarity": "energy",
+      "number": "96",
+      "image_url": "https://i.ibb.co/6kk98c1/33d863e8484e.jpg"
+    },
+    {
+      "name": "Fighting Energy",
+      "rarity": "energy",
+      "number": "97",
+      "image_url": "https://i.ibb.co/nsBYwhtX/ea48d3783bc4.jpg"
+    },
+    {
+      "name": "Fire Energy",
+      "rarity": "energy",
+      "number": "98",
+      "image_url": "https://i.ibb.co/5hFGyGqK/cd85ea272787.jpg"
+    },
+    {
+      "name": "Grass Energy",
+      "rarity": "energy",
+      "number": "99",
+      "image_url": "https://i.ibb.co/PvK5jWpL/279dc2822593.jpg"
+    },
+    {
+      "name": "Lightning Energy",
+      "rarity": "energy",
+      "number": "100",
+      "image_url": "https://i.ibb.co/Gvshyt50/668babec67de.jpg"
+    },
+    {
+      "name": "Psychic Energy",
+      "rarity": "energy",
+      "number": "101",
+      "image_url": "https://i.ibb.co/Lhs5M0gt/3e8ee2b6ffc5.jpg"
+    },
+    {
+      "name": "Water Energy",
+      "rarity": "energy",
+      "number": "102",
+      "image_url": "https://i.ibb.co/FbgHcZJc/495a1c4ac1d5.jpg"
+    }
+  ]
+}

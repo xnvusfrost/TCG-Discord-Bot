@@ -1,74 +1,52 @@
 import discord
 from discord.ext import commands
-import os
 from datetime import datetime, timedelta
-import json
 import random
 import asyncio
-from utils import get_balance, add_balance, user_packs, save_user_packs, load_pack
-
+from utils import load_user_file, save_user_file, user_packs, save_user_packs, load_pack
 
 class Currency(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        self.balances = self.load_json("data/balances.json", {})
-    
-    def load_json(self, filename, default):
-        if os.path.exists(filename):
-            try:
-                with open(filename, "r") as f:
-                    text = f.read().strip()
-                    if not text:
-                        return default
-                    return json.loads(text)
-            except json.JSONDecodeError:
-                print(f"[load_json] invalid JSON in {filename!r}")
-                return default
-        return default
-
-    def save_json(self, filename, data):
-        with open(filename, "w") as f:
-            json.dump(data, f, indent=2)
 
     def get_balance(self, user_id):
-        return self.balances.get(user_id, {"balance": 0, "last_daily": None})
+        data = load_user_file(user_id, "balances.json")
+        if not data:
+            data = {"balance": 0, "last_daily": None}
+        return data
 
     def add_balance(self, user_id, amount):
         user_data = self.get_balance(user_id)
-        user_data["balance"] += amount
-        self.balances[user_id] = user_data
-        self.save_json("data/balances.json", self.balances)
+        user_data["balance"] = user_data.get("balance", 0) + amount
+        save_user_file(user_id, "balances.json", user_data)
 
     def set_last_daily(self, user_id):
         user_data = self.get_balance(user_id)
         user_data["last_daily"] = datetime.utcnow().isoformat()
-        self.balances[user_id] = user_data
-        self.save_json("data/balances.json", self.balances)
+        save_user_file(user_id, "balances.json", user_data)
 
     def subtract_balance(self, user_id, amount):
         user_data = self.get_balance(user_id)
-        user_data["balance"] = max(0, user_data["balance"] - amount)
-        self.balances[user_id] = user_data
-        self.save_json("data/balances.json", self.balances)
+        user_data["balance"] = max(0, user_data.get("balance", 0) - amount)
+        save_user_file(user_id, "balances.json", user_data)
 
     @commands.command(name="bal")
     async def bal(self, ctx):
         user_data = self.get_balance(str(ctx.author.id))
-        amount = user_data["balance"]
+        amount = user_data.get("balance", 0)
         await ctx.send(f"{ctx.author.mention}, you have 💰 {amount} coins.")
 
     @commands.command(name="give")
-    @commands.has_permissions(administrator=True)
     async def give(self, ctx, member: discord.Member, amount: int):
         if amount <= 0:
             return await ctx.send("Amount must be greater than zero.")
         sender_id = str(ctx.author.id)
         receiver_id = str(member.id)
-        if self.get_balance(sender_id)["balance"] < amount:
+        if self.get_balance(sender_id).get("balance", 0) < amount:
             return await ctx.send("You don’t have enough coins.")
         self.subtract_balance(sender_id, amount)
         self.add_balance(receiver_id, amount)
-        await ctx.send(f"{ctx.author.mention} gave 💰 {amount} coins to {member.mention}!")
+        await ctx.send(f"{ctx.author.display_name} gave 💰 {amount} coins to {member.display_name}!")
 
     @commands.command(name="daily")
     async def daily(self, ctx):
@@ -95,7 +73,7 @@ class Currency(commands.Cog):
         if amount > 3000:
             return await ctx.send("The maximum bet is 3000 coins.")
         user_id = str(ctx.author.id)
-        balance = self.get_balance(user_id)["balance"]
+        balance = self.get_balance(user_id).get("balance", 0)
         if balance < amount:
             return await ctx.send("You don't have enough coins to bet that amount.")
 
@@ -117,7 +95,7 @@ class Currency(commands.Cog):
         if amount <= 0:
             return await ctx.send("Bet must be greater than zero.")
         user_id = str(ctx.author.id)
-        balance = self.get_balance(user_id)["balance"]
+        balance = self.get_balance(user_id).get("balance", 0)
         if balance < amount:
             return await ctx.send("You don't have enough coins to bet that amount.")
 

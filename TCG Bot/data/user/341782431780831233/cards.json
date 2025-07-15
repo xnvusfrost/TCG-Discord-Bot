@@ -1,0 +1,2353 @@
+{
+    "cards": [
+        {
+            "name": "Onix",
+            "rarity": "common",
+            "number": "56",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044851397333145/bs.056.onix_.jpg?ex=687560f0&is=68740f70&hm=9b3e4b4036915c5bfb627c198f354df9d84c352e638157d99410a3782ff2e4dd&",
+            "pack": "base"
+        },
+        {
+            "name": "Potion",
+            "rarity": "common",
+            "number": "94",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045086949441698/bs.094.potion.jpg?ex=68756128&is=68740fa8&hm=aadd065582452f04854697ac6ef01bd6a5126d11c061387e1f0a3a7e819a7ab2&",
+            "pack": "base"
+        },
+        {
+            "name": "Poliwag",
+            "rarity": "common",
+            "number": "59",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044852450361344/bs.059.poliwag.jpg?ex=687560f0&is=68740f70&hm=f5743ccf61ac591098d971ecde867a21ea96c384bce15575cbe944c62bbf159c&",
+            "pack": "base"
+        },
+        {
+            "name": "Drowzee",
+            "rarity": "common",
+            "number": "49",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044817855614976/bs.049.drowzee.jpg?ex=687560e8&is=68740f68&hm=38e8ca342f3c9f13aee179085a74c544039a021066aca162e2149e67f6f6aa21&",
+            "pack": "base"
+        },
+        {
+            "name": "Machop",
+            "rarity": "common",
+            "number": "52",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044849900093450/bs.052.machop.jpg?ex=687560f0&is=68740f70&hm=da5b2090d861b23fc2bc3c739a0f5b3b700f9e69d26b464000702c3eb2537754&",
+            "pack": "base"
+        },
+        {
+            "name": "Gastly",
+            "rarity": "common",
+            "number": "50",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044818111594628/bs.050.gastly.jpg?ex=687560e8&is=68740f68&hm=e94634f8a61af48ea595d34552e9390792d517e8ae194a9c6c02f6123d679207&",
+            "pack": "base"
+        },
+        {
+            "name": "Full Heal",
+            "rarity": "uncommon",
+            "number": "82",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045068951687188/bs.082.full_heal.jpg?ex=68756124&is=68740fa4&hm=85ef64c0e6ffefbf2da2b6dc824477b275baaabb7dd805bfe24ab178581c9fd7&",
+            "pack": "base"
+        },
+        {
+            "name": "Maintenance",
+            "rarity": "uncommon",
+            "number": "83",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045069228638258/bs.083.maintenance.jpg?ex=68756124&is=68740fa4&hm=e4a650de6b4f68df7a5fdac0d9d2fa33e5b44caf22c14539fd9b881dc712359e&",
+            "pack": "base"
+        },
+        {
+            "name": "Jynx",
+            "rarity": "uncommon",
+            "number": "31",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044794241814610/bs.031.jynx_.jpg?ex=687560e3&is=68740f63&hm=d7d9aa23e32edffb6676f318f779b22377fdde0d062a1618dcf4ceebc4d949e8&",
+            "pack": "base"
+        },
+        {
+            "name": "Electrode",
+            "rarity": "rare",
+            "number": "21",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044771789443345/bs.021.electrode.jpg?ex=687560dd&is=68740f5d&hm=675c8c7ea06af6523d2c09880b35ad615b84437fb550e0b2b6a6986991dbd963&",
+            "pack": "base"
+        },
+        {
+            "name": "Grass Energy",
+            "rarity": "energy",
+            "number": "99",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088362922116/bs.099.grass_energy.jpg?ex=68756129&is=68740fa9&hm=740b7701c59ea43be742b365b3683f2a97127a66cc438e112da33f211c3f955a&",
+            "pack": "base"
+        },
+        {
+            "name": "Sandshrew",
+            "rarity": "common",
+            "number": "62",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044874755670077/bs.062.sandshrew.jpg?ex=687560f6&is=68740f76&hm=4c8697748113e3b178267bb44e9f7109b50e0b9686c507b9fabefe230787f8e0&",
+            "pack": "base"
+        },
+        {
+            "name": "Magnemite",
+            "rarity": "common",
+            "number": "53",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044850264870943/bs.053.magnemite.jpg?ex=687560f0&is=68740f70&hm=2e459a942e1021a2f0654ab0f4d5c5bbf2fa3a1a666f79bb6b0b1b8ae33cf56f&",
+            "pack": "base"
+        },
+        {
+            "name": "Voltorb",
+            "rarity": "common",
+            "number": "67",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044876718477452/bs.067.voltorb.jpg?ex=687560f6&is=68740f76&hm=a103a79631f64f50335913e9eb7f9b66d944de87bca7c61c8eb84b4c71bb7077&",
+            "pack": "base"
+        },
+        {
+            "name": "Tangela",
+            "rarity": "common",
+            "number": "66",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044876164694036/bs.066.tangela.jpg?ex=687560f6&is=68740f76&hm=d225be54422f124065aa98853de71b95a4d908d1a53ffa276e0285a436fe6f2d&",
+            "pack": "base"
+        },
+        {
+            "name": "Squirtle",
+            "rarity": "common",
+            "number": "63",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044875057397790/bs.063.squirtle.jpg?ex=687560f6&is=68740f76&hm=3c57eeabdfc58efb4ac049941ea846dd637b4fe9c567fc2faf95e18261da370d&",
+            "pack": "base"
+        },
+        {
+            "name": "Wartortle",
+            "rarity": "uncommon",
+            "number": "42",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044815984951369/bs.042.wartortle.jpg?ex=687560e8&is=68740f68&hm=91707abc93cef185f5f532c947e9faeb719402071fb408e96b89456c005efba1&",
+            "pack": "base"
+        },
+        {
+            "name": "Pokemon Flute",
+            "rarity": "uncommon",
+            "number": "86",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045070004453517/bs.086.pokemon_flute.jpg?ex=68756124&is=68740fa4&hm=0eeabd333683efd584f803a534dd310259ad639faa535fe6d01961504370ab85&",
+            "pack": "base"
+        },
+        {
+            "name": "Lass",
+            "rarity": "rare",
+            "number": "75",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044906955210864/bs.075.lass_.jpg?ex=687560fd&is=68740f7d&hm=23582b275e616ead396b4de471c3e5fc1a1ec36e571351bd59b713cbb4edeebc&",
+            "pack": "base"
+        },
+        {
+            "name": "Fighting Energy",
+            "rarity": "energy",
+            "number": "97",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045087809536040/bs.097.fighting_energy.jpg?ex=68756129&is=68740fa9&hm=627cb1bea9d72d0b9955e53a546844fb5decc0f06d7712b342ecee03bee75807&",
+            "pack": "base"
+        },
+        {
+            "name": "Ponyta",
+            "rarity": "common",
+            "number": "60",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044852768870420/bs.060.ponyta.jpg?ex=687560f1&is=68740f71&hm=8c59fdded96295ecfc6a2271f8133470ca45debc5314903375335a3e44f18182&",
+            "pack": "base"
+        },
+        {
+            "name": "Bulbasaur",
+            "rarity": "common",
+            "number": "44",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044816513564843/bs.044.bulbasaur.jpg?ex=687560e8&is=68740f68&hm=247d46b2b4ddb20d1e49f35a6c38359b6d64d1cc1fab89fdde7e6f09d60c5061&",
+            "pack": "base"
+        },
+        {
+            "name": "Diglett",
+            "rarity": "common",
+            "number": "47",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044817306288350/bs.047.diglett.jpg?ex=687560e8&is=68740f68&hm=70599fd33bb145de0015bf743c0a58d8ff2e4fd55997add4b6020a76c506d49b&",
+            "pack": "base"
+        },
+        {
+            "name": "Bill",
+            "rarity": "common",
+            "number": "91",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045086014246922/bs.091.bill_.jpg?ex=68756128&is=68740fa8&hm=32c40ba32077eee40d3888ab6986c685a8ff91c3e8e091875db4091a97bb04a0&",
+            "pack": "base"
+        },
+        {
+            "name": "Kadabra",
+            "rarity": "uncommon",
+            "number": "32",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044794711572550/bs.032.kadabra.jpg?ex=687560e3&is=68740f63&hm=e70fefec341e602be8e60f0e2f4e457b4d2e22d5b855c31f473a2e9a3820c4ff&",
+            "pack": "base"
+        },
+        {
+            "name": "Seel",
+            "rarity": "uncommon",
+            "number": "41",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044815720841316/bs.041.seel_.jpg?ex=687560e8&is=68740f68&hm=ba046aa7c110da898461f3b141d82aa81d68b1dde7e132bbd8bf0f11e36d2c27&",
+            "pack": "base"
+        },
+        {
+            "name": "Dratini",
+            "rarity": "uncommon",
+            "number": "26",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044773408706733/bs.026.dratini.jpg?ex=687560de&is=68740f5e&hm=ea0a1d7c9376958c41cf3a58208506e528c06dc332173a2178f549ce45007994&",
+            "pack": "base"
+        },
+        {
+            "name": "Super Energy Removal",
+            "rarity": "rare",
+            "number": "79",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044908561629315/bs.079.super_energy_removal.jpg?ex=687560fe&is=68740f7e&hm=63cba113cacae2fc420d74448d9dabfae639d23a3fdcd3f903057bb988cc693e&",
+            "pack": "base"
+        },
+        {
+            "name": "Metapod",
+            "rarity": "common",
+            "number": "54",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044850713657566/bs.054.metapod.jpg?ex=687560f0&is=68740f70&hm=5ce1d70b7ba0d881b96056dc16d17a1f812975b592fedc72952a8b75a4b0288d&",
+            "pack": "base"
+        },
+        {
+            "name": "Rattata",
+            "rarity": "common",
+            "number": "61",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044874352754728/bs.061.rattata.jpg?ex=687560f6&is=68740f76&hm=d8d7c8f902c388d231c2f2522fcf639509d9806ec65c744961ba7d0561d6ff53&",
+            "pack": "base"
+        },
+        {
+            "name": "Koffing",
+            "rarity": "common",
+            "number": "51",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044849480798310/bs.051.koffing.jpg?ex=687560f0&is=68740f70&hm=f2d3d722b993783499c87f42824e8f547e946bf5e40e4502d36e35a35f0de052&",
+            "pack": "base"
+        },
+        {
+            "name": "Kakuna",
+            "rarity": "uncommon",
+            "number": "33",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044795151712379/bs.033.kakuna.jpg?ex=687560e3&is=68740f63&hm=04c73203a318fe521ffd902ccd6cc13eff2c301cd06b19f3b8d77bddbc820afc&",
+            "pack": "base"
+        },
+        {
+            "name": "Pokedex",
+            "rarity": "uncommon",
+            "number": "87",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045070264766514/bs.087.pokedex.jpg?ex=68756124&is=68740fa4&hm=388b480aae19eb09ef9ea530956f0f894831f4c93f1f9d39ce3444883f82a61d&",
+            "pack": "base"
+        },
+        {
+            "name": "Professor Oak",
+            "rarity": "uncommon",
+            "number": "88",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045070596112434/bs.088.professor_oak.jpg?ex=68756124&is=68740fa4&hm=f1a74a5a3e36f48cc2f7081cba48990088132915ca75116c258d3713a1fae758&",
+            "pack": "base"
+        },
+        {
+            "name": "Mewtwo",
+            "rarity": "rare",
+            "number": "10",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044715820646400/bs.010.mewtwo.jpg?ex=687560d0&is=68740f50&hm=a4fd684b29d44456c9ddae62b3086da9ed5148cba137cf9f25d71cc719f27469&",
+            "pack": "base"
+        },
+        {
+            "name": "Staryu",
+            "rarity": "common",
+            "number": "65",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044875804246239/bs.065.staryu.jpg?ex=687560f6&is=68740f76&hm=3c809e0ae54808492920fbe3d2bd3b09d85e21c633f481cf1314bf396e1889ab&",
+            "pack": "base"
+        },
+        {
+            "name": "Starmie",
+            "rarity": "common",
+            "number": "64",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044875439345874/bs.064.starmie.jpg?ex=687560f6&is=68740f76&hm=71443314d12166ea514e89e389a40258a91273df5887b63beb94f7e1e4f49d51&",
+            "pack": "base"
+        },
+        {
+            "name": "Porygon",
+            "rarity": "uncommon",
+            "number": "39",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044797840261120/bs.039.porygon.jpg?ex=687560e3&is=68740f63&hm=1a7b9ac728ac9adcfe00d81d7a17c76d80b29bd3d47bba887bece5098fdd1734&",
+            "pack": "base"
+        },
+        {
+            "name": "Magikarp",
+            "rarity": "uncommon",
+            "number": "35",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044796158349372/bs.035.magikarp.jpg?ex=687560e3&is=68740f63&hm=12cbdd62808a9cbd256594d2677b873f975ab10a1a868525e41c068bdbda3f92&",
+            "pack": "base"
+        },
+        {
+            "name": "Charmander",
+            "rarity": "common",
+            "number": "46",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044817008365680/bs.046.charmander.jpg?ex=687560e8&is=68740f68&hm=a88a82d61877b7ef051f31f535e2bd3145f6883924bb9ee1b911758434f09bb9&",
+            "pack": "base"
+        },
+        {
+            "name": "Gust of Wind",
+            "rarity": "common",
+            "number": "93",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045086668554250/bs.093.gust_of_wind.jpg?ex=68756128&is=68740fa8&hm=6097d98348cb5d8eea0014a5ad48aea69ef5330b64d9176ffa33f4266afd0c0d&",
+            "pack": "base"
+        },
+        {
+            "name": "Caterpie",
+            "rarity": "common",
+            "number": "45",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044816761032734/bs.045.caterpie.jpg?ex=687560e8&is=68740f68&hm=7f12d4fac141a8e68d8bcf696efa66023acabcce11056565bbf90dd7a359b007&",
+            "pack": "base"
+        },
+        {
+            "name": "Arcanine",
+            "rarity": "uncommon",
+            "number": "23",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044772347412531/bs.023.arcanine.jpg?ex=687560dd&is=68740f5d&hm=4a3cd4ffe8c2a510aa8fd4ba26c685f36b5e50828c245dfd1f48978e68fc4205&",
+            "pack": "base"
+        },
+        {
+            "name": "Farfetch'd",
+            "rarity": "uncommon",
+            "number": "27",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044773765091499/bs.027.farfetchd.jpg?ex=687560de&is=68740f5e&hm=20e5305151a0393857246a03317fc91c487ec18f78799e63eb76ec2110a8051c&",
+            "pack": "base"
+        },
+        {
+            "name": "Ivysaur",
+            "rarity": "uncommon",
+            "number": "30",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044774490574889/bs.030.ivysaur.jpg?ex=687560de&is=68740f5e&hm=8632b3ca93daf94186abf2056612b2ec41091e4c423c534eb42a596150aa45b8&",
+            "pack": "base"
+        },
+        {
+            "name": "Item Finder",
+            "rarity": "rare",
+            "number": "74",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044906678259773/bs.074.item_finder.jpg?ex=687560fd&is=68740f7d&hm=05ed29aef2cda4df637aed616dd52926098ebd05fc4f77ca00fedc4e4efebbe7&",
+            "pack": "base"
+        },
+        {
+            "name": "Nidoran (male)",
+            "rarity": "common",
+            "number": "55",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044851103862834/bs.055.nidoran_male.jpg?ex=687560f0&is=68740f70&hm=de028b14ad74323825eb2aa5f431d5ef6556c46144f577eb8eb476e2f74868b5&",
+            "pack": "base"
+        },
+        {
+            "name": "Pikachu",
+            "rarity": "common",
+            "number": "58",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044852156502139/bs.058.pikachu.jpg?ex=687560f0&is=68740f70&hm=984a6021f172b321b50e676250438fda1583eaaf9014b96d5afb3de68ef14e04&",
+            "pack": "base"
+        },
+        {
+            "name": "Haunter",
+            "rarity": "uncommon",
+            "number": "29",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044774268403742/bs.029.haunter.jpg?ex=687560de&is=68740f5e&hm=b9a7058dda4a39845222995e590e32c1043edde83c2e267b449714ffb327179e&",
+            "pack": "base"
+        },
+        {
+            "name": "Charmeleon",
+            "rarity": "uncommon",
+            "number": "24",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044772749938728/bs.024.charmeleon.jpg?ex=687560dd&is=68740f5d&hm=fd423238f87d6dbcff3174da7e275d5b09bdea8ccd476ae1759ee7fa5e8f286a&",
+            "pack": "base"
+        },
+        {
+            "name": "Pokemon Breeder",
+            "rarity": "rare",
+            "number": "76",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044907491950815/bs.076.pokemon_breeder.jpg?ex=687560fe&is=68740f7e&hm=5184d74fe8988737c4e0d7c26c8c32fabdc213748f60a3ff91605a3e82a00986&",
+            "pack": "base"
+        },
+        {
+            "name": "Weedle",
+            "rarity": "common",
+            "number": "69",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044877473452202/bs.069.weedle.jpg?ex=687560f6&is=68740f76&hm=5d9a0e3a85db9bf46ce6dbdca7577edebb93b381ba44869ca2223c7c934d709c&",
+            "pack": "base"
+        },
+        {
+            "name": "Pidgey",
+            "rarity": "common",
+            "number": "57",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044851774951454/bs.057.pidgey.jpg?ex=687560f0&is=68740f70&hm=b0a5ac47efb4fde583affc893152e1692539a9d1623f2c7eb783e53d9988cd82&",
+            "pack": "base"
+        },
+        {
+            "name": "Abra",
+            "rarity": "common",
+            "number": "43",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044816253390980/bs.043.abra_.jpg?ex=687560e8&is=68740f68&hm=9e276eb020d85992240406f2ef3a0c2291389b0941b1dd86cdf7226edf471887&",
+            "pack": "base"
+        },
+        {
+            "name": "Revive",
+            "rarity": "uncommon",
+            "number": "89",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045071065747527/bs.089.revive.jpg?ex=68756125&is=68740fa5&hm=06c1c7f817e7503136465ed5228bcda33dce22e583be00de6974a75841878b35&",
+            "pack": "base"
+        },
+        {
+            "name": "Growlithe",
+            "rarity": "uncommon",
+            "number": "28",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044774008225973/bs.028.growlithe.jpg?ex=687560de&is=68740f5e&hm=a7590fc998b56460f88e5197a2da8ae56b4ce3e5e2ab6d66a922773d1d3aa768&",
+            "pack": "base"
+        },
+        {
+            "name": "Gyarados",
+            "rarity": "rare",
+            "number": "6",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044713795059804/bs.006.gyarados.jpg?ex=687560cf&is=68740f4f&hm=d3797a448aa6d65a51599e39d67d908f2cc340fc89544db98cb2c27f21ebd153&",
+            "pack": "base"
+        },
+        {
+            "name": "Double Colorless Energy",
+            "rarity": "energy",
+            "number": "96",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045087503089734/bs.096.double_colorless_energy.jpg?ex=68756128&is=68740fa8&hm=f573207a27c2db4288231bdc5fbfa60c029134b08012845fa5005fc2be90f888&",
+            "pack": "base"
+        },
+        {
+            "name": "Doduo",
+            "rarity": "common",
+            "number": "48",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044817583116530/bs.048.doduo_.jpg?ex=687560e8&is=68740f68&hm=637ca99c4dde2b7ffca1a1eb53f81b25a4d57a4ed0e2c199c0726ca8938ddc22&",
+            "pack": "base"
+        },
+        {
+            "name": "Poliwhirl",
+            "rarity": "uncommon",
+            "number": "38",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044797358051400/bs.038.poliwhirl.jpg?ex=687560e3&is=68740f63&hm=33bc5318f1f9c185f3ae8e6de7191b2dccadc2b22cc5bb41441c891cebc785ae&",
+            "pack": "base"
+        },
+        {
+            "name": "Pokemon Trader",
+            "rarity": "rare",
+            "number": "77",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044907844407367/bs.077.pokemon_trader.jpg?ex=687560fe&is=68740f7e&hm=c99544dbe1bf8cf1dbd185c09ac596881a407ddf78fcf422fcdd9d73e34f0701&",
+            "pack": "base"
+        },
+        {
+            "name": "Exeggcute",
+            "rarity": "common",
+            "number": "52",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047935108354168/ju.052.exeggcute.jpg?ex=687563cf&is=6874124f&hm=40dad67b113db20dd8bd9c8def9e308901c6560ec029979772a7df9cab62f5e6&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Venonat",
+            "rarity": "common",
+            "number": "63",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047962417467563/ju.063.venonat.jpg?ex=687563d6&is=68741256&hm=9476e9c8a25ca938668deaffa85aefe1f8d00802f9b2c317751e69f99ab401f7&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Pokeball",
+            "rarity": "common",
+            "number": "64",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047962870710475/ju.064.poke_ball.jpg?ex=687563d6&is=68741256&hm=7c07cc74940703cbaf5d960ff551a8eb1dee91181218afcfcddd0e3d25cc2f8d&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Eevee",
+            "rarity": "common",
+            "number": "51",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047934814879956/ju.051.eevee_.jpg?ex=687563cf&is=6874124f&hm=a3e83f24ab36f1b5fa941e35f4448ba734d43427c3d397218025743c032f6961&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Oddish",
+            "rarity": "common",
+            "number": "58",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047937645904095/ju.058.oddish.jpg?ex=687563d0&is=68741250&hm=3c76c9c20cfd5c091dd32cc041a1abc7bb005341aaf4697240f69faf40b7c2f5&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Pikachu",
+            "rarity": "common",
+            "number": "60",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047938220658769/ju.060.pikachu.jpg?ex=687563d0&is=68741250&hm=40cd16d70232a6d43a84ebf9e68e7f617a87839f85552c890940829405d2ac10&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Seaking",
+            "rarity": "uncommon",
+            "number": "46",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047912186744993/ju.046.seaking.jpg?ex=687563ca&is=6874124a&hm=af69f8c78f6bae89643fd11ed4b7a34161b4a98f3bc24271d425fb0a86bf7956&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Dodrio",
+            "rarity": "uncommon",
+            "number": "34",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047877524750336/ju.034.dodrio.jpg?ex=687563c2&is=68741242&hm=89b2da3a421384e1394dafede40011631db4240f4894907c297aa7b27cc097f4&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Weepinbell",
+            "rarity": "uncommon",
+            "number": "48",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047912786526361/ju.048.weepinbell.jpg?ex=687563ca&is=6874124a&hm=51a6b15d53a6754518b689ba5da13852a7e88eaf7936c7289c929703a66d17e5&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Victreebel",
+            "rarity": "rare",
+            "number": "30",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047820880810004/ju.030.victreebel.jpg?ex=687563b4&is=68741234&hm=ed9914c86a2eeca884bc1343664f60774bb4e91b92b1c6f5a7e34e6826aa3ba3&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Fire Energy",
+            "rarity": "energy",
+            "number": "98",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088069451836/bs.098.fire_energy.jpg?ex=68756129&is=68740fa9&hm=345b13179d257b4118aece587cc384af1db8a780da735321e0f0c47a3a6b5d50&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Nidoran \u2640",
+            "rarity": "common",
+            "number": "57",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047937356632184/ju.057.nidoran_female.jpg?ex=687563d0&is=68741250&hm=71ec328f4e1abab298bb464da90a6da88c7c66bb4ad42a28b88ac3be69c64b8f&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Spearow",
+            "rarity": "common",
+            "number": "62",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047962081919006/ju.062.spearow.jpg?ex=687563d6&is=68741256&hm=7cd2801c403a33303f1f9df5a0b65c858d2f099ef43850954b66ca72a652e44b&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Cubone",
+            "rarity": "common",
+            "number": "50",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047913545695353/ju.050.cubone.jpg?ex=687563ca&is=6874124a&hm=a258f2905bd70022e069456465d3efb01c22de2e5c9356efc01545941ec0e0d6&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Bellsprout",
+            "rarity": "common",
+            "number": "49",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047913121812510/ju.049.bellsprout.jpg?ex=687563ca&is=6874124a&hm=435d38933e58ed43a276e4f7d3ce6792c1dfa22bd894158a867cbb687656019e&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Rhydon",
+            "rarity": "uncommon",
+            "number": "45",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047911645413437/ju.045.rhydon.jpg?ex=687563ca&is=6874124a&hm=0ce8ad53136afabe620c7b9c47ae23497a67282f15067c46e52ef9eb5412f047&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Rapidash",
+            "rarity": "uncommon",
+            "number": "44",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047911259803749/ju.044.rapidash.jpg?ex=687563ca&is=6874124a&hm=94c97cb6cbc2ed3f26f3b333b0faaf51adda9c321f267451e56ef17243a1e941&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Gloom",
+            "rarity": "uncommon",
+            "number": "37",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047878435049683/ju.037.gloom_.jpg?ex=687563c2&is=68741242&hm=36afdf1202a075060a969ef4cf2058119b3681ac2e4a22701090773e97ab063e&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Kangaskhan",
+            "rarity": "rare",
+            "number": "5",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047761523151079/ju.005.kangaskhan.jpg?ex=687563a6&is=68741226&hm=f3c7bf6bd298de4e82ce2b835c3d2023d73c4813e09bff49cb8d10d2a05ea17a&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Rhyhorn",
+            "rarity": "common",
+            "number": "61",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047961625006170/ju.061.rhyhorn.jpg?ex=687563d6&is=68741256&hm=8930cb5fb74fdf217f51ef1d7a62c72542b95186099c6503810a7d2f7d39412f&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Paras",
+            "rarity": "common",
+            "number": "59",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047937876852787/ju.059.paras_.jpg?ex=687563d0&is=68741250&hm=fdc96137c81f6c3025450e155cce4df11142ed13da2343eee5b11ce822e919fa&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Meowth",
+            "rarity": "common",
+            "number": "56",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047936316571759/ju.056.meowth.jpg?ex=687563d0&is=68741250&hm=b70ac89ea0b5354b3538f259853d0348726be60243e6b67235ea6ccc64df61ad&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Jigglypuff",
+            "rarity": "common",
+            "number": "54",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047935716786328/ju.054.jigglypuff.jpg?ex=687563d0&is=68741250&hm=d7d19774c0f470fddd3efa93d182b2fa62621287211adeb67ebff1d2f08436e8&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Butterfree",
+            "rarity": "uncommon",
+            "number": "33",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047877113839757/ju.033.butterfree.jpg?ex=687563c2&is=68741242&hm=8bff459ad7a98ee7d6eb8a3d30e59f50ae4158c8304a4f4cd686e1c4a6cba19a&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Psychic Energy",
+            "rarity": "energy",
+            "number": "101",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045104301539329/bs.101.psychic_energy.jpg?ex=6875612c&is=68740fac&hm=b5103d730e5d442bc9a669d27f870bbec29af8b7665ab754b3686dcece7ebe67&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Marowak",
+            "rarity": "uncommon",
+            "number": "39",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047878972051486/ju.039.marowak.jpg?ex=687563c2&is=68741242&hm=63fddf51f6e10da8e74f5e8753cccdc96843ccf6ae23ddf886059344525d18b7&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Primeape",
+            "rarity": "uncommon",
+            "number": "43",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047910873792665/ju.043.primeape.jpg?ex=687563ca&is=6874124a&hm=1d25e1985236bc5a116fb1494d37be7cd13f30bebbe6eecb81cb6e744aced410&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Pidgeot",
+            "rarity": "rare",
+            "number": "24",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047819106750565/ju.024.pidgeot.jpg?ex=687563b4&is=68741234&hm=8f71233df4f4cd00fcb39ad86a24459e1000e00db3da46beafb6356f18c44b91&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Water Energy",
+            "rarity": "energy",
+            "number": "102",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045104595009606/bs.102.water_energy.jpg?ex=6875612d&is=68740fad&hm=74155ff51432cf1141be4594786e31d4f488ccc525280687567646df33c32315&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Tauros",
+            "rarity": "uncommon",
+            "number": "47",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047912505245786/ju.047.tauros.jpg?ex=687563ca&is=6874124a&hm=57751a0d116c9bd4799d1980244c2528c9bbed75f123923d075f6561bd7cea81&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Nidoqueen",
+            "rarity": "rare",
+            "number": "23",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047818825596988/ju.023.nidoqueen.jpg?ex=687563b4&is=68741234&hm=c508e20eb4a32eccdcd99e4ac79bff633af6bd978a9fc0d811434fae07101f70&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Grass Energy",
+            "rarity": "energy",
+            "number": "99",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088362922116/bs.099.grass_energy.jpg?ex=68756129&is=68740fa9&hm=740b7701c59ea43be742b365b3683f2a97127a66cc438e112da33f211c3f955a&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Fearow",
+            "rarity": "uncommon",
+            "number": "36",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047878116409545/ju.036.fearow.jpg?ex=687563c2&is=68741242&hm=4e352a79bea69d9a3e98144b606095b1548accb55167141936983318e2f91213&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Parasect",
+            "rarity": "uncommon",
+            "number": "41",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047909816701129/ju.041.parasect.jpg?ex=687563c9&is=68741249&hm=7437791871afc5a17c61d07ea72610b77ec34d57baf7f739bd30bb9a4add4e9a&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Scyther",
+            "rarity": "rare",
+            "number": "26",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047819635097712/ju.026.scyther.jpg?ex=687563b4&is=68741234&hm=63ed4dfde6af035822cf6d1f5605725c0be3c0601f0cb48ba3b9885a4c257f65&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Lightning Energy",
+            "rarity": "energy",
+            "number": "100",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088673566740/bs.100.lightning_energy.jpg?ex=68756129&is=68740fa9&hm=88ad989d0b9409218a832da5c6bad35c8d57b882c3ced3629bbdf16f77bb7075&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Goldeen",
+            "rarity": "common",
+            "number": "53",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047935439699988/ju.053.goldeen.jpg?ex=687563cf&is=6874124f&hm=2faf4230094665bfb1c789f5db0f19d9c3798bb97b96b0df5af899cb96589dd4&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Victreebel",
+            "rarity": "rare",
+            "number": "14",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047783325139044/ju.014.victreebel.jpg?ex=687563ab&is=6874122b&hm=41d3533670dd94b80b32d6f3bc913bc0f5e94a24b604dff248824ba6bad24269&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Persian",
+            "rarity": "uncommon",
+            "number": "42",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047910425137232/ju.042.persian.jpg?ex=687563ca&is=6874124a&hm=883ea37620148ba1a909015baa32d753e9d5ded12a0ba0b8b54e8cb6ec6bab9f&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Exeggutor",
+            "rarity": "uncommon",
+            "number": "35",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047877839458385/ju.035.exeggutor.jpg?ex=687563c2&is=68741242&hm=787540d48475a9ae57788aa8b438b32f497c57b45d051d23107bc2d2b86044aa&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Nidorina",
+            "rarity": "uncommon",
+            "number": "40",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047879290687680/ju.040.nidorina.jpg?ex=687563c2&is=68741242&hm=dd1e884d42c379fcbf4e1264dc35d5d42695136d6d3450eb7dbdb6b28016e3b9&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Vileplume",
+            "rarity": "rare",
+            "number": "15",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047783610224846/ju.015.vileplume.jpg?ex=687563ab&is=6874122b&hm=f90f6ff650d8901205ba4bee5cb03cfbf356bd74843e0e47da90151e7d1f41f7&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Ekans",
+            "rarity": "common",
+            "number": "46",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050637703938128/fo.046.ekans_.jpg?ex=68756654&is=687414d4&hm=c5405ed55fcd551f2dbb85a6fe7232a58f388b481ab3fd03e4fdaf17c1f4df0f&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Krabby",
+            "rarity": "common",
+            "number": "51",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050653986492528/fo.051.krabby.jpg?ex=68756658&is=687414d8&hm=7e070a0b7148eb2107af4c8c7075f2086f89b1c40868973efe701d5bff496cda&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Recycle",
+            "rarity": "common",
+            "number": "61",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050666057433268/fo.061.recycle.jpg?ex=6875665a&is=687414da&hm=8b84d473fb84822cec0c008bb85ab499efb9e70b6aa1cada55b74ad40e8e0d12&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Mysterious Fossil",
+            "rarity": "common",
+            "number": "62",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050666359554168/fo.062.mysterious_fossil.jpg?ex=6875665b&is=687414db&hm=e51c39f63e28c233a2fbb61dee4c3e3012ef0c1b1beab1656095fcf200e82362&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Omanyte",
+            "rarity": "common",
+            "number": "52",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050654225432806/fo.052.omanyte.jpg?ex=68756658&is=687414d8&hm=10a789827825b684a25f78ea8174b0e0a00ad93d9207f08ee2ef2db5353de950&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Slowpoke",
+            "rarity": "common",
+            "number": "55",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050655051710464/fo.055.slowpoke.jpg?ex=68756658&is=687414d8&hm=b8207430e4e6043574086d30fa461442b91b7806b6893817da55b5d05a638e58&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Golbat",
+            "rarity": "uncommon",
+            "number": "34",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050598785126591/fo.034.golbat.jpg?ex=6875664a&is=687414ca&hm=b4ed410b7b5ad48192405633a0e4561eab044b77838c06186297fe5065a74cd4&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Tentacruel",
+            "rarity": "uncommon",
+            "number": "44",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050636680794232/fo.044.tentacruel.jpg?ex=68756653&is=687414d3&hm=b822384dc8a29f012cf10a7eb6fee051c75371e10111ce67b52e5df722f8021c&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Kingler",
+            "rarity": "uncommon",
+            "number": "38",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050600060194836/fo.038.kingler.jpg?ex=6875664b&is=687414cb&hm=ee11b75a34c32e3d373a6e27b9921707db686c548cd433f8f75233cc6b822440&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Kabutops",
+            "rarity": "rare",
+            "number": "9",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050132751941803/fo.009.kabutops.jpg?ex=687565db&is=6874145b&hm=c48adfb81099fccaceba7166defc3e391cf3300f9c6a152ae3ccb2dbd20185a3&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Psychic Energy",
+            "rarity": "energy",
+            "number": "101",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045104301539329/bs.101.psychic_energy.jpg?ex=6875612c&is=68740fac&hm=b5103d730e5d442bc9a669d27f870bbec29af8b7665ab754b3686dcece7ebe67&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Tentacool",
+            "rarity": "common",
+            "number": "56",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050655315955783/fo.056.tentacool.jpg?ex=68756658&is=687414d8&hm=b289ff5b95b2218764cc836167edda4ecf51da9e42ef165d9cd7992b6a06559f&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Kabuto",
+            "rarity": "common",
+            "number": "50",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050639138652231/fo.050.kabuto.jpg?ex=68756654&is=687414d4&hm=e88ab2348f9f2b9b84a2307045b49d5338a1dc7ba70cd269dfe44e41a6a16ea3&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Energy Search",
+            "rarity": "common",
+            "number": "59",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050656150491267/fo.059.energy_search.jpg?ex=68756658&is=687414d8&hm=16841ed82fb6a7518e4236f7d53201667001dbfcf35dcf89688781c7fe0ec320&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Gambler",
+            "rarity": "common",
+            "number": "60",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050656469389352/fo.060.gambler.jpg?ex=68756658&is=687414d8&hm=51fbb3e5ccaf2fb29108150fb7f445fc8b8b41148cfde063b6172a5b4030f9d8&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Shellder",
+            "rarity": "common",
+            "number": "54",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050654745661490/fo.054.shellder.jpg?ex=68756658&is=687414d8&hm=c38555a4ca7470217ebd1bce5fbe8fcdf42558c230ae1137f6960abb93abaa20&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Sandlash",
+            "rarity": "uncommon",
+            "number": "41",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050635732619264/fo.041.sandslash.jpg?ex=68756653&is=687414d3&hm=ed8873fe7f1f306af6c1f41468aee1fd75741f332a5e7e2b7f65acf16ad2131b&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Golem",
+            "rarity": "uncommon",
+            "number": "36",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050599334580336/fo.036.golem_.jpg?ex=6875664b&is=687414cb&hm=e1a0f7cce6a22c785707e89372e563729dc606a61b1299056cd2dd1137bf61a7&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Arbok",
+            "rarity": "uncommon",
+            "number": "31",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050597816107098/fo.031.arbok_.jpg?ex=6875664a&is=687414ca&hm=8b4d9d668f3584a72883fb6d6819c1423f76b57a4b6de6b3727ebd67b809020a&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Lapras",
+            "rarity": "rare",
+            "number": "25",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050169645039736/fo.025.lapras.jpg?ex=687565e4&is=68741464&hm=33147d82884a999651a7a13c22c7ea4eefa59b35603a730aac9e523a5718dca5&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Fighting Energy",
+            "rarity": "energy",
+            "number": "97",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045087809536040/bs.097.fighting_energy.jpg?ex=68756129&is=68740fa9&hm=627cb1bea9d72d0b9955e53a546844fb5decc0f06d7712b342ecee03bee75807&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Grimer",
+            "rarity": "common",
+            "number": "48",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050638492471368/fo.048.grimer.jpg?ex=68756654&is=687414d4&hm=d79b433ba4c1618fc1026fb4e144a475e279f349d492daee9f4640d7eff9d780&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Mr. Fuji",
+            "rarity": "common",
+            "number": "58",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050655894634596/fo.058.mr_fuji.jpg?ex=68756658&is=687414d8&hm=8f58b70c082f1a53f3a915cbdeca00c6de128a465aa61064c1d4b54e2212df5b&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Seadra",
+            "rarity": "uncommon",
+            "number": "42",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050636039065782/fo.042.seadra.jpg?ex=68756653&is=687414d3&hm=e8989c01000888d25b1aae40b95f0408c983820f7bbb6b619393ddf15578c0ec&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Gastly",
+            "rarity": "uncommon",
+            "number": "33",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050598399119460/fo.033.gastly.jpg?ex=6875664a&is=687414ca&hm=8330ff86a1d0e63e2de4ba97aa63f8fe41ff8a9ffcd10974e05666ea91a5b6b8&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Lapras",
+            "rarity": "rare",
+            "number": "10",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050133171376199/fo.010.lapras.jpg?ex=687565db&is=6874145b&hm=253ea2f67653e971adacf3cfaf884eac1c5e0eb40a4d40fcbf0d3c69b83c2e59&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Lightning Energy",
+            "rarity": "energy",
+            "number": "100",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088673566740/bs.100.lightning_energy.jpg?ex=68756129&is=68740fa9&hm=88ad989d0b9409218a832da5c6bad35c8d57b882c3ced3629bbdf16f77bb7075&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Psyduck",
+            "rarity": "common",
+            "number": "53",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050654485483630/fo.053.psyduck.jpg?ex=68756658&is=687414d8&hm=11c5bc643d3aea6757e4409e2e998cc810f9f207ca4dfbd9f093e79e775d2936&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Magneton",
+            "rarity": "rare",
+            "number": "11",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050148287643812/fo.011.magneton.jpg?ex=687565df&is=6874145f&hm=a9ae7632921981018e5a7b3f403fd74cbd6c6d510f64b81dbe77eae7a2702052&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Geodude",
+            "rarity": "common",
+            "number": "47",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050638068973628/fo.047.geodude.jpg?ex=68756654&is=687414d4&hm=fd1f6ea53b54d3e91cfd32b3a8dd751ba5012152be26e106e9ed70175a626fb2&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Horsea",
+            "rarity": "common",
+            "number": "49",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050638832337179/fo.049.horsea.jpg?ex=68756654&is=687414d4&hm=e6dc6318a0057a85a7358aea9ae0236deac698487b96465950e7a08df5bf5c78&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Cloyster",
+            "rarity": "uncommon",
+            "number": "32",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050598067900567/fo.032.cloyster.jpg?ex=6875664a&is=687414ca&hm=1ae4e881555468d792cefa47e9be810402b6fcb7743c672f9e4241a1162c2940&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Gengar",
+            "rarity": "rare",
+            "number": "20",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050151026393300/fo.020.gengar.jpg?ex=687565e0&is=68741460&hm=c8f2cb72ab3d8d611723575778687e14827d2e4e3a7469a8aea63fa5f87763d3&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Magmar",
+            "rarity": "uncommon",
+            "number": "39",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050600437551296/fo.039.magmar.jpg?ex=6875664b&is=687414cb&hm=52a10964d13ee3dbf97a719782c02abcac09b6ad44abf01b63ece44163407d91&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Graveler",
+            "rarity": "uncommon",
+            "number": "37",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050599645085787/fo.037.graveler.jpg?ex=6875664b&is=687414cb&hm=f16b7759e36804eabb478efaf6f1a038875231367be8da5750c27e88791faf20&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Articuno",
+            "rarity": "rare",
+            "number": "17",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050150057513071/fo.017.articuno.jpg?ex=687565df&is=6874145f&hm=1d300488832a92bed91e768114f62fcd0733a73cbe5867911dc53ced1395f5d3&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Golduck",
+            "rarity": "uncommon",
+            "number": "35",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050599066009760/fo.035.golduck.jpg?ex=6875664b&is=687414cb&hm=7f922fc2ba05643ca419f280af9056a2bb31dc35a85996fee3b17494716a17cd&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Kabutops",
+            "rarity": "rare",
+            "number": "24",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050169359569008/fo.024.kabutops.jpg?ex=687565e4&is=68741464&hm=26adf96df49e5f22e8af63cd967ec2389c31750eb8d3684b19af433fa1456a23&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Haunter",
+            "rarity": "rare",
+            "number": "6",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050131275546634/fo.006.haunter.jpg?ex=687565db&is=6874145b&hm=dab550df18101fe9de7a065770b6540bf69b3f7267787e1b7cdfb8f01cb666fd&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Zubat",
+            "rarity": "common",
+            "number": "57",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050655588581426/fo.057.zubat_.jpg?ex=68756658&is=687414d8&hm=b29c66098f85b293af4c4370e40d18dd1991f43b1c2470d005836e7fff6011d6&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Hypno",
+            "rarity": "rare",
+            "number": "8",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050132131053829/fo.008.hypno_.jpg?ex=687565db&is=6874145b&hm=83de58d96c66207f65bfd6e95a314727fd04649bcb977d614480e08f62818286&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Weezing",
+            "rarity": "uncommon",
+            "number": "45",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050637054083174/fo.045.weezing.jpg?ex=68756654&is=687414d4&hm=9434cd162578f53dac9f789d9078c4fddd322662c1543581a28fd5f23115a07a&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Meowth",
+            "rarity": "common",
+            "number": "62",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052634935165098/ro.062.meowth.jpg?ex=68756830&is=687416b0&hm=5d40decd909fb0189363c0d3e8bb12fadebfcfe677179ff7f6b7c11a70698d53&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Drowzee",
+            "rarity": "common",
+            "number": "54",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052371214110751/ro.054.drowzee.jpg?ex=687567f1&is=68741671&hm=ba509aab83c0b54fbca53eb13b67be016827cc96acd44c5ce7e514dc2cb569cc&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Magnemite",
+            "rarity": "common",
+            "number": "60",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052373046886490/ro.060.magnemite.jpg?ex=687567f1&is=68741671&hm=93798760746af0fba5b59e338d5894392d58fad3bbe6e8a3c619c5b8bb1fd8a0&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dratini",
+            "rarity": "common",
+            "number": "53",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052370928894062/ro.053.dratini.jpg?ex=687567f1&is=68741671&hm=16fe9b0973a153d646082980e8657bc944a7d286f6c8e81cf5a1bf32f09c93b3&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Charmander",
+            "rarity": "common",
+            "number": "50",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052343238234232/ro.050.charmander.jpg?ex=687567ea&is=6874166a&hm=0e930b2ba129dea5305ef288dadfbad37418f642b5596008049c8eae65729932&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Raticate",
+            "rarity": "common",
+            "number": "51",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052369993437386/ro.051.dark_raticate.jpg?ex=687567f1&is=68741671&hm=2cdd48d05dbb1100465a6217ba4360d89d376206260fde3783f60457eb88266a&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Charmeleon",
+            "rarity": "uncommon",
+            "number": "32",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051257819332668/ro.032.dark_charmeleon.jpg?ex=687566e8&is=68741568&hm=fe4186dc479f4130adb07812e680bd9b626bf183764468bea00b66a67227472b&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Magikarp",
+            "rarity": "uncommon",
+            "number": "47",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052341744930917/ro.047.magikarp.jpg?ex=687567ea&is=6874166a&hm=680b3fcb4b51ecc69035d66c5e8d4b7a230b1fe3c2f6032e8addd0c2134ff0aa&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Nightly Garbage Run",
+            "rarity": "uncommon",
+            "number": "77",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052684394397696/ro.077.nightly_garbage_run.jpg?ex=6875683c&is=687416bc&hm=d83a276b980195f67ea0c10a4e928113bf4a38b3b7a8817fc86c42a9942d2d01&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Weezing",
+            "rarity": "rare",
+            "number": "31",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051257563484260/ro.031.dark_weezing.jpg?ex=687566e8&is=68741568&hm=6e967c05811442b5e4ef9e6a241a5f451bd2684382938db72be87c4c562f5eb5&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Fighting Energy",
+            "rarity": "energy",
+            "number": "97",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045087809536040/bs.097.fighting_energy.jpg?ex=68756129&is=68740fa9&hm=627cb1bea9d72d0b9955e53a546844fb5decc0f06d7712b342ecee03bee75807&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Slowpoke",
+            "rarity": "common",
+            "number": "67",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052636713418782/ro.067.slowpoke.jpg?ex=68756830&is=687416b0&hm=7366d58404bf599e1ce415c15599eb14d7eaeed33463d3a6a92485bf0a6f363c&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Oddish",
+            "rarity": "common",
+            "number": "63",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052635245678773/ro.063.oddish.jpg?ex=68756830&is=687416b0&hm=b7c640bd136edd780991eebd668e0faf97d23f96a43066546218eb36893484a1&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Zubat",
+            "rarity": "common",
+            "number": "70",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052637720318032/ro.070.zubat_.jpg?ex=68756831&is=687416b1&hm=66adbb635140bc26f367ccd147a909e63fb1ec486d8c9b9799a62ae33ae0d752&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Wartortle",
+            "rarity": "uncommon",
+            "number": "46",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052341379891341/ro.046.dark_wartortle.jpg?ex=687567ea&is=6874166a&hm=18733eadb162ab4d19403a04bf00a939b3e081cd4c9b98ddf893da605cab2af7&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Full Heal Energy",
+            "rarity": "uncommon",
+            "number": "81",
+            "type": "Energy",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052698961350707/ro.081.full_heal_energy.jpg?ex=6875683f&is=687416bf&hm=26d34a8e932a2da5bb3a8cb2579ccd7a8af2a8ea273b7baabbc50045f45a38dc&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Hypno",
+            "rarity": "rare",
+            "number": "9",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051199275237554/ro.009.dark_hypno.jpg?ex=687566da&is=6874155a&hm=3fd211c1408ca159ea8b6ab6a9fa3645236afafc106761e15ad7e26c7b26c6e3&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Fire Energy",
+            "rarity": "energy",
+            "number": "98",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088069451836/bs.098.fire_energy.jpg?ex=68756129&is=68740fa9&hm=345b13179d257b4118aece587cc384af1db8a780da735321e0f0c47a3a6b5d50&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Porygon",
+            "rarity": "common",
+            "number": "48",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052342097248377/ro.048.porygon.jpg?ex=687567ea&is=6874166a&hm=1a590df5726aac7ecc0011dffdb58580e8d2973f06c93c158f4d9302346993f3&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Eevee",
+            "rarity": "common",
+            "number": "55",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052371511902321/ro.055.eevee_.jpg?ex=687567f1&is=68741671&hm=eef2e7e4782d6ebea12d022d83de73ddc7764b77816646161a3aaa31fdf75479&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Sleep!",
+            "rarity": "common",
+            "number": "79",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052685254234194/ro.079.sleep_.jpg?ex=6875683c&is=687416bc&hm=ece3d4227a19611296f2b1e28249029307ec628bfe89542c98b53771ba3d9500&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Rattata",
+            "rarity": "common",
+            "number": "66",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052636361359440/ro.066.rattata.jpg?ex=68756830&is=687416b0&hm=b636ac695f020fbf7ec79fb021d456e7c3c1458036f7eef29cf7028feeb5b2d7&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Ekans",
+            "rarity": "common",
+            "number": "56",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052371847577691/ro.056.ekans_.jpg?ex=687567f1&is=68741671&hm=e71145e637e1ba833ba0fe5d4a4d34d4bdd7f857ebdab67f39d42c2223a03b03&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Ponyta",
+            "rarity": "common",
+            "number": "64",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052635593801918/ro.064.ponyta.jpg?ex=68756830&is=687416b0&hm=ea855671604b853225cfbd8aa61fdd39af1b4f242f110c588522e0ceeb5f15b5&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Persian",
+            "rarity": "uncommon",
+            "number": "42",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052339987517502/ro.042.dark_persian.jpg?ex=687567ea&is=6874166a&hm=85d45c26eccb41287d6ca4ab6ea81b7058be57f6f3b429b37f54f6fab5f295c1&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Challenge!",
+            "rarity": "uncommon",
+            "number": "74",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052683157209178/ro.074.challenge.jpg?ex=6875683b&is=687416bb&hm=49d405da0da82407b49b4ebbbb1f241fec66d32d53ff9bba9386e5f56df0ef55&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Arbok",
+            "rarity": "rare",
+            "number": "2",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051197287010416/ro.002.dark_arbok.jpg?ex=687566d9&is=68741559&hm=ced236411b3ae11c69ca8247527ecc881cab7ca5b2861a59228735d2cf87d316&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Water Energy",
+            "rarity": "energy",
+            "number": "102",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045104595009606/bs.102.water_energy.jpg?ex=6875612d&is=68740fad&hm=74155ff51432cf1141be4594786e31d4f488ccc525280687567646df33c32315&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Squirtle",
+            "rarity": "common",
+            "number": "68",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052637032190145/ro.068.squirtle.jpg?ex=68756830&is=687416b0&hm=8d155eef1543df96fd93139af0ec8ea7550da106aae3a26c01dad0033e50e712&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Voltorb",
+            "rarity": "common",
+            "number": "69",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052637426585792/ro.069.voltorb.jpg?ex=68756831&is=687416b1&hm=e5b87b4381f712a3e47f626c833bdc42acd4b7e5c020882ea9fc6921a3f5337d&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Abra",
+            "rarity": "common",
+            "number": "49",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052342717878345/ro.049.abra_.jpg?ex=687567ea&is=6874166a&hm=c761d0a8095337aeea96bb417fd043f801154521852b24a2a0ddfba12a50ca83&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Machop",
+            "rarity": "common",
+            "number": "59",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052372728385577/ro.059.machop.jpg?ex=687567f1&is=68741671&hm=ae961dbb506719d3f4f393c51eee0939fc61460ed3b2a5c7cd9dd66abca21048&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Primeape",
+            "rarity": "uncommon",
+            "number": "43",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052340306411580/ro.043.dark_primeape.jpg?ex=687567ea&is=6874166a&hm=840892df5a51257819e748865ad376046e79e215c6146a9917a850cc94e7d99c&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Flareon",
+            "rarity": "uncommon",
+            "number": "35",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051258851135621/ro.035.dark_flareon.jpg?ex=687566e8&is=68741568&hm=1bf2757d679aedeef5c8aeb5030e93445cb8957f774489e9e2f1bfd6c2e81a0f&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Mankey",
+            "rarity": "common",
+            "number": "61",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052634616271049/ro.061.mankey.jpg?ex=68756830&is=687416b0&hm=322beb114b9bb24f24481d40955cfa1fafc3229e449c057bd1093def7b3bb39d&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Grimer",
+            "rarity": "common",
+            "number": "57",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052372132663358/ro.057.grimer.jpg?ex=687567f1&is=68741671&hm=326d6741cbde5bf2e5c5b468dc1fa9df929e6b702ac1e1532f740c0ed03462a2&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Rapidash",
+            "rarity": "uncommon",
+            "number": "44",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052340604076224/ro.044.dark_rapidash.jpg?ex=687567ea&is=6874166a&hm=a61d63d7c4df8ec58b26948f3638c413f335de6a06d6e462b24105fa06b54b67&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Vaporeon",
+            "rarity": "uncommon",
+            "number": "45",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052341053001829/ro.045.dark_vaporeon.jpg?ex=687567ea&is=6874166a&hm=ccc8347b4c7d7b28e52b17a122396741282f465d1dcd94674a7e879e13e65fe6&",
+            "pack": "rocket"
+        },
+        {
+            "name": "The Boss's Way",
+            "rarity": "uncommon",
+            "number": "73",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052682733588771/ro.073.the_bosss_way.jpg?ex=6875683b&is=687416bb&hm=45787009b5c0d960a8b06b6bee66c6019c26fed76cb4ed3c420b881bc2be99ff&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Psychic Energy",
+            "rarity": "energy",
+            "number": "101",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045104301539329/bs.101.psychic_energy.jpg?ex=6875612c&is=68740fac&hm=b5103d730e5d442bc9a669d27f870bbec29af8b7665ab754b3686dcece7ebe67&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Gloom",
+            "rarity": "uncommon",
+            "number": "36",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051259232813207/ro.036.dark_gloom.jpg?ex=687566e8&is=68741568&hm=a2f83b0b744fcf794bf2ff552872cfcae794383003974b34b479d4d8f63772a2&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Dragonite",
+            "rarity": "rare",
+            "number": "22",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051240215707688/ro.022.dark_dragonite.jpg?ex=687566e3&is=68741563&hm=536b0d64b407bb54ffa2b60b98ecf3adeacc6e902b71e1cc06a0cc441e5c0774&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Lightning Energy",
+            "rarity": "energy",
+            "number": "100",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088673566740/bs.100.lightning_energy.jpg?ex=68756129&is=68740fa9&hm=88ad989d0b9409218a832da5c6bad35c8d57b882c3ced3629bbdf16f77bb7075&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Koffing",
+            "rarity": "common",
+            "number": "58",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052372443168808/ro.058.koffing.jpg?ex=687567f1&is=68741671&hm=98e70dcebb66b531d519ebe1d74ba3462050e074a1e2c8c14d368fe4950b5011&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Machoke",
+            "rarity": "uncommon",
+            "number": "40",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051260868464771/ro.040.dark_machoke.jpg?ex=687566e8&is=68741568&hm=7ae80da8f2704dc5026ffb690f1beb851d0a5673ac3feaea47f16b87f531d337&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Weezing",
+            "rarity": "rare",
+            "number": "14",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051219370016768/ro.014.dark_weezing.jpg?ex=687566de&is=6874155e&hm=174becfbb9f43de66932a8b0eb6ff4b48e576560ca7c2dc5b9f56680e296869c&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Psyduck",
+            "rarity": "common",
+            "number": "65",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052635925024779/ro.065.psyduck.jpg?ex=68756830&is=687416b0&hm=255c4fc24c9b7ee1edae9d15c4759496e22798a95c99a0d4db74fe7cf2aa467f&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Muk",
+            "rarity": "uncommon",
+            "number": "41",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052339643449525/ro.041.dark_muk.jpg?ex=687567ea&is=6874166a&hm=52584b9741cb76bdeef16f276d361317ea8426c0c0f20baf633fff5c983156fe&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Dragonite",
+            "rarity": "rare",
+            "number": "5",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051198151032932/ro.005.dark_dragonite.jpg?ex=687566d9&is=68741559&hm=5efc09957539f4c791f0f66864ff7d07059930b83f060f7baf65ba69997b5156&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Diglett",
+            "rarity": "common",
+            "number": "52",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052370262134804/ro.052.diglett.jpg?ex=687567f1&is=68741671&hm=4ed30bd19980b1c8c6d9e0f4cc33a4e6d10600e4803a83b4435b7201afe9bf17&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Imposter Oak's Revenge",
+            "rarity": "uncommon",
+            "number": "76",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052683861852200/ro.076.imposter_oaks_revenge.jpg?ex=6875683c&is=687416bc&hm=00762a4455514662f93316734cde7b76226a4cb16e66cc6cace94881be95d8ab&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Dragonair",
+            "rarity": "uncommon",
+            "number": "33",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051258087641278/ro.033.dark_dragonair.jpg?ex=687566e8&is=68741568&hm=0bcbfbf53d648cb56cbf3cfec14fbe1ec5f8fbc14bdd2af40ea1d3b8283a9681&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Raichu",
+            "rarity": "rare",
+            "number": "83",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052699799945388/ro.083.dark_raichu.jpg?ex=6875683f&is=687416bf&hm=1aad47363bbaffe05b5a84f058ed3cb2d76cd8541448f8e8300273c1bcddfd43&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Grass Energy",
+            "rarity": "energy",
+            "number": "99",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088362922116/bs.099.grass_energy.jpg?ex=68756129&is=68740fa9&hm=740b7701c59ea43be742b365b3683f2a97127a66cc438e112da33f211c3f955a&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Here Comes Team Rocket",
+            "rarity": "rare",
+            "number": "15",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051219676332183/ro.015.here_comes_team_rocket.jpg?ex=687566de&is=6874155e&hm=d4a40ac381469bf446912b3b4f28cf0fb841a3d4f9f9da24bb3632da9859c4dc&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Energy Removal",
+            "rarity": "common",
+            "number": "92",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045086337073194/bs.092.energy_removal.jpg?ex=68756128&is=68740fa8&hm=454843c0f34af77af33e4f440e0e29054f03ac6bb1fb20e20d252572b59fdec4&",
+            "pack": "base"
+        },
+        {
+            "name": "Magneton",
+            "rarity": "rare",
+            "number": "9",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044715338436668/bs.009.magneton.jpg?ex=687560d0&is=68740f50&hm=17313a93128c11a94bd91cf066aeb9654e985842244c4251436a561c09e27216&",
+            "pack": "base"
+        },
+        {
+            "name": "Switch",
+            "rarity": "common",
+            "number": "95",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045087218012231/bs.095.switch.jpg?ex=68756128&is=68740fa8&hm=cb64721f1ea31b6e086905223e81c445d1e1a78ea0ec00230f069eb95d592416&",
+            "pack": "base"
+        },
+        {
+            "name": "Machoke",
+            "rarity": "uncommon",
+            "number": "34",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044795684524112/bs.034.machoke.jpg?ex=687560e3&is=68740f63&hm=f3b3e3a291eef44a65f103b4449483021d34cd1c2bbed97321c8abe725e4706f&",
+            "pack": "base"
+        },
+        {
+            "name": "Raichu",
+            "rarity": "rare",
+            "number": "14",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044739791356104/bs.014.raichu.jpg?ex=687560d6&is=68740f56&hm=ebfd56a5591fe1c0fd670e16cf1c5745ace5bed3ed065a7d8f845dc842e27a3d&",
+            "pack": "base"
+        },
+        {
+            "name": "Fire Energy",
+            "rarity": "energy",
+            "number": "98",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088069451836/bs.098.fire_energy.jpg?ex=68756129&is=68740fa9&hm=345b13179d257b4118aece587cc384af1db8a780da735321e0f0c47a3a6b5d50&",
+            "pack": "base"
+        },
+        {
+            "name": "Defender",
+            "rarity": "uncommon",
+            "number": "80",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044908922470410/bs.080.defender.jpg?ex=687560fe&is=68740f7e&hm=922f22cb1b4b8be458dc41f12238bf9ad2c3c20ea448dada5fdcb452061d1abd&",
+            "pack": "base"
+        },
+        {
+            "name": "Pokemon Center",
+            "rarity": "uncommon",
+            "number": "85",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045069757120592/bs.085.pokemon_center.jpg?ex=68756124&is=68740fa4&hm=b24569f7a436cb0d5279d525b982b0122b6962e1cee2a74770e198e1a8ede62e&",
+            "pack": "base"
+        },
+        {
+            "name": "Alakazam",
+            "rarity": "rare",
+            "number": "1",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044711869878363/bs.001.alakazam.jpg?ex=687560cf&is=68740f4f&hm=982e75223fe023ae1d1dca42941dfb19fb2c44ed6a05a1b7e5c58b902cfaa899&",
+            "pack": "base"
+        },
+        {
+            "name": "Lightning Energy",
+            "rarity": "energy",
+            "number": "100",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088673566740/bs.100.lightning_energy.jpg?ex=68756129&is=68740fa9&hm=88ad989d0b9409218a832da5c6bad35c8d57b882c3ced3629bbdf16f77bb7075&",
+            "pack": "base"
+        },
+        {
+            "name": "Nidorino",
+            "rarity": "uncommon",
+            "number": "37",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044797068513474/bs.037.nidorino.jpg?ex=687560e3&is=68740f63&hm=5a4e982bbc63e7f0e0a8c8270abeecc1bc9049272aa0b9e68ccc7c1d7b6dc2f0&",
+            "pack": "base"
+        },
+        {
+            "name": "Raticate",
+            "rarity": "uncommon",
+            "number": "40",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044798549233776/bs.040.raticate.jpg?ex=687560e4&is=68740f64&hm=8d664c8ea73a341b08ff4b3686c1ad08e63e580bfb5388091bbfec6c2f63b93e&",
+            "pack": "base"
+        },
+        {
+            "name": "Clefairy Doll",
+            "rarity": "rare",
+            "number": "70",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044877804666952/bs.070.clefairy_doll.jpg?ex=687560f6&is=68740f76&hm=ba6fce402067baa302a6585c9697e61cba8e8b8994b6504f7ec2a3ee5f9106ec&",
+            "pack": "base"
+        },
+        {
+            "name": "Vulpix",
+            "rarity": "common",
+            "number": "68",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044877016137758/bs.068.vulpix.jpg?ex=687560f6&is=68740f76&hm=fa8ddd71dacf0b8e38fc4e9a536215c27b1fb775d6acbed73ddba83d487c47ed&",
+            "pack": "base"
+        },
+        {
+            "name": "PlusPower",
+            "rarity": "uncommon",
+            "number": "84",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045069496942786/bs.084.pluspower.jpg?ex=68756124&is=68740fa4&hm=3afeca2be685d30c760fd823f255dd184da588304cfbb512b48cb4d3e41713cd&",
+            "pack": "base"
+        },
+        {
+            "name": "Electabuzz",
+            "rarity": "rare",
+            "number": "20",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044741536186388/bs.020.electabuzz.jpg?ex=687560d6&is=68740f56&hm=83d353023e657a533dbc4e0c99e5dcdd88dfe5595936c4adba930cccde42d863&",
+            "pack": "base"
+        },
+        {
+            "name": "Poliwrath",
+            "rarity": "rare",
+            "number": "13",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044739501821963/bs.013.poliwrath.jpg?ex=687560d5&is=68740f55&hm=773fb73076f18a2e66457d7710db90e5ae72b8baabcf5bf4ea29ca6c6c701d9b&",
+            "pack": "base"
+        },
+        {
+            "name": "Psychic Energy",
+            "rarity": "energy",
+            "number": "101",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045104301539329/bs.101.psychic_energy.jpg?ex=6875612c&is=68740fac&hm=b5103d730e5d442bc9a669d27f870bbec29af8b7665ab754b3686dcece7ebe67&",
+            "pack": "base"
+        },
+        {
+            "name": "Super Potion",
+            "rarity": "uncommon",
+            "number": "90",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045071384383611/bs.090.super_potion.jpg?ex=68756125&is=68740fa5&hm=3eba0536039e193bb9348b879b3e60bb36ba5ccf7a898e3b2d5513694da20ba0&",
+            "pack": "base"
+        },
+        {
+            "name": "Devolution Spray",
+            "rarity": "rare",
+            "number": "72",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044906032467968/bs.072.devolution_spray.jpg?ex=687560fd&is=68740f7d&hm=1c0f1a28ff113cfe1bc0cfda9ca93590c5b994856c06ba2bdb20ba4cc34806c2&",
+            "pack": "base"
+        },
+        {
+            "name": "Water Energy",
+            "rarity": "energy",
+            "number": "102",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045104595009606/bs.102.water_energy.jpg?ex=6875612d&is=68740fad&hm=74155ff51432cf1141be4594786e31d4f488ccc525280687567646df33c32315&",
+            "pack": "base"
+        },
+        {
+            "name": "Dewgong",
+            "rarity": "uncommon",
+            "number": "25",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044773073158378/bs.025.dewgong.jpg?ex=687560de&is=68740f5e&hm=ce384814a5fcd4cdccd387f41c52410c4de280743d7e76db9785f124a9fbcaab&",
+            "pack": "base"
+        },
+        {
+            "name": "Venusaur",
+            "rarity": "rare",
+            "number": "15",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044740105932810/bs.015.venusaur.jpg?ex=687560d6&is=68740f56&hm=cc383b22092a91f1c92808671abac3e6610733af3de8d911808620f80e72238b&",
+            "pack": "base"
+        },
+        {
+            "name": "Magmar",
+            "rarity": "uncommon",
+            "number": "36",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044796502413426/bs.036.magmar.jpg?ex=687560e3&is=68740f63&hm=e1758848abcfc5c341669f82160d9177ea9008bc484014f3c770e85fde407442&",
+            "pack": "base"
+        },
+        {
+            "name": "Energy Retrieval",
+            "rarity": "uncommon",
+            "number": "81",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045068716937286/bs.081.energy_retrieval.jpg?ex=68756124&is=68740fa4&hm=dfc69bc7096f0e8dabac775f9315375a7cc23bf7a380849423a53a771cc1f1e5&",
+            "pack": "base"
+        },
+        {
+            "name": "Beedrill",
+            "rarity": "rare",
+            "number": "17",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044740638605446/bs.017.beedrill.jpg?ex=687560d6&is=68740f56&hm=aafd48532b9b79a8f1b9f104b481e0fb0f9db411715edff760cf4c0a6cf145e1&",
+            "pack": "base"
+        },
+        {
+            "name": "Machamp",
+            "rarity": "rare",
+            "number": "8",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044714898161897/bs.008.machamp.jpg?ex=687560d0&is=68740f50&hm=9c1e55205d89d82e8288e60476bc3a7608a9d109335cd3dc4b6ec108723c98f8&",
+            "pack": "base"
+        },
+        {
+            "name": "Chansey",
+            "rarity": "rare",
+            "number": "3",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044712574521505/bs.003.chansey.jpg?ex=687560cf&is=68740f4f&hm=5a87f0c009b6c0fb90669ed2c12fdfc4e2a05842e54d631af5377e66962f4b3f&",
+            "pack": "base"
+        },
+        {
+            "name": "Scoop Up",
+            "rarity": "rare",
+            "number": "78",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394044908209176707/bs.078.scoop_up.jpg?ex=687560fe&is=68740f7e&hm=d6a4a6b4eea45a28fe924184c140d34618d289d7684430be9f3860e6e08d7c32&",
+            "pack": "base"
+        },
+        {
+            "name": "Mankey",
+            "rarity": "common",
+            "number": "55",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047936014454916/ju.055.mankey.jpg?ex=687563d0&is=68741250&hm=cb3493c2a2ebba24a5e6f6532eb588b70e8748d586365ef64c951ce9cb13b371&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Clefable",
+            "rarity": "rare",
+            "number": "17",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047784302153869/ju.017.clefable.jpg?ex=687563ab&is=6874122b&hm=40b815bf4419cb1abeb1123e5ab51435890c74e40929df574851da74d58473e9&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Jolteon",
+            "rarity": "rare",
+            "number": "4",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047761090871486/ju.004.jolteon.jpg?ex=687563a6&is=68741226&hm=417352d02e7a68ca8876227ad65b1df3fa92a6af5c2cd78b2d683102aa7eebbf&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Flareon",
+            "rarity": "rare",
+            "number": "19",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047784952528906/ju.019.flareon.jpg?ex=687563ac&is=6874122c&hm=51b73bbc5c85f73d80baf98cca3dd4044b25568faf3c3567645fbe1b8637ceda&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Fighting Energy",
+            "rarity": "energy",
+            "number": "97",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045087809536040/bs.097.fighting_energy.jpg?ex=68756129&is=68740fa9&hm=627cb1bea9d72d0b9955e53a546844fb5decc0f06d7712b342ecee03bee75807&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Nidoqueen",
+            "rarity": "rare",
+            "number": "7",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047762307223602/ju.007.nidoqueen.jpg?ex=687563a6&is=68741226&hm=f7659dc33e67b6d5293a70c7f1132a13f863a982056b1d20cbc0928f64419dd4&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Jolteon",
+            "rarity": "rare",
+            "number": "20",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047785225031730/ju.020.jolteon.jpg?ex=687563ac&is=6874122c&hm=936fa2f968f596d41c48179ff3eb1f5fa5083adfbd46929996c2b0b4b477e233&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Mr. Mime",
+            "rarity": "rare",
+            "number": "6",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047761871143073/ju.006.mr_mime.jpg?ex=687563a6&is=68741226&hm=464aab9e9e808c4a0d1df062ae7d90b5ece025438d6edef9b7d9d3f53855f17d&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Wigglytuff",
+            "rarity": "rare",
+            "number": "32",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047876874633327/ju.032.wigglytuff.jpg?ex=687563c2&is=68741242&hm=3c88471134cc4a9cb07d9b5b049630cbd66100c4ae347833d0ffa6aeaaa155c5&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Vileplume",
+            "rarity": "rare",
+            "number": "31",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047876576968837/ju.031.vileplume.jpg?ex=687563c1&is=68741241&hm=f3f489388efce6a8b50770472200c9b26621df978a93557c328ec2bd9f6e1495&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Lickitung",
+            "rarity": "uncommon",
+            "number": "38",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047878712000532/ju.038.lickitung.jpg?ex=687563c2&is=68741242&hm=c04a8d2049b0a06891534859ba658d45555723b07ab378b9f6b87d2ea290a4f4&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Venomoth",
+            "rarity": "rare",
+            "number": "13",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047783043989514/ju.013.venomoth.jpg?ex=687563ab&is=6874122b&hm=835728dbc2d0fe31dbe78847725e846e41b10943c363a357c3671b8237136aee&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Pinsir",
+            "rarity": "rare",
+            "number": "9",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047763058004118/ju.009.pinsir.jpg?ex=687563a6&is=68741226&hm=4489741ae0cfaba40f57cc18ccb75278ea7cc3d3da066b5eadf598eeb0af697d&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Mr. Mime",
+            "rarity": "rare",
+            "number": "22",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047818443784242/ju.022.mr_mime.jpg?ex=687563b4&is=68741234&hm=5e3a73853e937244694fb32d36d9d159aed1b2a5f7f1a7fd737f55c06cca7482&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Vaporeon",
+            "rarity": "rare",
+            "number": "12",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047782737678339/ju.012.vaporeon.jpg?ex=687563ab&is=6874122b&hm=7820b61a97722ec1573b1201ed8a1104a599c4592cda08c48fe73c0725d50cba&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Snorlax",
+            "rarity": "rare",
+            "number": "11",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047782381420594/ju.011.snorlax.jpg?ex=687563ab&is=6874122b&hm=77e9f39190998d6ec1fbe05d9e4482b47381fcb6f033d09c20fbf7b2ee8763ab&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Electrode",
+            "rarity": "rare",
+            "number": "2",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047760461725867/ju.002.electrode.jpg?ex=687563a6&is=68741226&hm=00891687fc12cc9d64466bc1832b2e2b77b8841f9e0b378406d81b1065bfa48a&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Venomoth",
+            "rarity": "rare",
+            "number": "29",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047820603850752/ju.029.venomoth.jpg?ex=687563b4&is=68741234&hm=b9e695a782a625824e543c44bb5070acf6a10fdedd53c21bcb8387772c2c942b&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Clefable",
+            "rarity": "rare",
+            "number": "1",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029807376793610/1394047760038105088/ju.001.clefable.jpg?ex=687563a6&is=68741226&hm=ce7991182831704ccb69304c75242f479ab4c7db8f9f1605af1589dd0d4bcba3&",
+            "pack": "jungle"
+        },
+        {
+            "name": "Gengar",
+            "rarity": "rare",
+            "number": "5",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050130881286225/fo.005.gengar.jpg?ex=687565db&is=6874145b&hm=7f568b131a79c0ea73947e3fe688154a1d419177cd1e190a39c8c9cb534e17ed&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Fire Energy",
+            "rarity": "energy",
+            "number": "98",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088069451836/bs.098.fire_energy.jpg?ex=68756129&is=68740fa9&hm=345b13179d257b4118aece587cc384af1db8a780da735321e0f0c47a3a6b5d50&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Raichu",
+            "rarity": "rare",
+            "number": "14",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050149180768306/fo.014.raichu.jpg?ex=687565df&is=6874145f&hm=a686877a64e2605c58219a5b2057269993237988f11086a38f7b5d3b9c862d93&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Grass Energy",
+            "rarity": "energy",
+            "number": "99",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045088362922116/bs.099.grass_energy.jpg?ex=68756129&is=68740fa9&hm=740b7701c59ea43be742b365b3683f2a97127a66cc438e112da33f211c3f955a&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Slowbro",
+            "rarity": "uncommon",
+            "number": "43",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050636345118871/fo.043.slowbro.jpg?ex=68756653&is=687414d3&hm=ae932eee0b3c858dac0b275f241fff84c1812480394c8945f17b6aa366ea7d86&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Zapdos",
+            "rarity": "rare",
+            "number": "15",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050149482893382/fo.015.zapdos.jpg?ex=687565df&is=6874145f&hm=67a1cd13ebcea231408d8f2bfc16728e17b5bee976a0d7917c3cac98f4905c85&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Double Colorless Energy",
+            "rarity": "energy",
+            "number": "96",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045087503089734/bs.096.double_colorless_energy.jpg?ex=68756128&is=68740fa8&hm=f573207a27c2db4288231bdc5fbfa60c029134b08012845fa5005fc2be90f888&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Omastar",
+            "rarity": "uncommon",
+            "number": "40",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050600722759811/fo.040.omastar.jpg?ex=6875664b&is=687414cb&hm=2146f1d59b5fafdd7914a9a1feb3c777c8e00fcc63252741a140efdb32f7bb64&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Ditto",
+            "rarity": "rare",
+            "number": "3",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050130176643212/fo.003.ditto_.jpg?ex=687565db&is=6874145b&hm=c7cba3b9270bdedd7d185450bc16f8091f97e2b45d43d95e2134f9f786810db0&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Aerodactyl",
+            "rarity": "rare",
+            "number": "1",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050129496903832/fo.001.aerodactyl.jpg?ex=687565db&is=6874145b&hm=72b0dcc9307f8dd910281016c329343f04e6e1f8142b565cda270af9706ef59a&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Water Energy",
+            "rarity": "energy",
+            "number": "102",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045104595009606/bs.102.water_energy.jpg?ex=6875612d&is=68740fad&hm=74155ff51432cf1141be4594786e31d4f488ccc525280687567646df33c32315&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Aerodactyl",
+            "rarity": "rare",
+            "number": "16",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050149742809119/fo.016.aerodactyl.jpg?ex=687565df&is=6874145f&hm=c1c2572d52317cdfc422d7449fe1bfb17473728b01aea3831aeec815dd953e01&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Muk",
+            "rarity": "rare",
+            "number": "13",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050148920856767/fo.013.muk_.jpg?ex=687565df&is=6874145f&hm=8c101945b0ab564f817084547c8c64e9766f1a8a989ae699211205275c3fbbef&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Moltres",
+            "rarity": "rare",
+            "number": "12",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050148648095858/fo.012.moltres.jpg?ex=687565df&is=6874145f&hm=1c7098980bdec92d0fd550539ac0782fca7e6e1d2eeffa807e664b2969b2654d&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Magneton",
+            "rarity": "rare",
+            "number": "26",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050169900761120/fo.026.magneton.jpg?ex=687565e4&is=68741464&hm=1f3dc5e5385fe6ceadce8a21fc5f82cfb625ffc46a272e092389be1de74ae25b&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Haunter",
+            "rarity": "rare",
+            "number": "21",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050168520704060/fo.021.haunter.jpg?ex=687565e4&is=68741464&hm=f24b03bc7bb81ce2cd51da1983361eda48a23d8c285d14813a2a12b2988d7c98&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Articuno",
+            "rarity": "rare",
+            "number": "2",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050129849352202/fo.002.articuno.jpg?ex=687565db&is=6874145b&hm=1fd2ec4dfb50d6077d6a18eaaf3b305d6f5166cf8ebd809c354c89e2ab6f4fc6&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Dragonite",
+            "rarity": "rare",
+            "number": "19",
+            "type": "Colorless",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050150615355516/fo.019.dragonite.jpg?ex=687565e0&is=68741460&hm=8b38d16ddbb395c009c7126cb7f286a00a5c39e92894123ec797f69fcf9ab563&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Hitmonlee",
+            "rarity": "rare",
+            "number": "22",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029837936754728/1394050168789143704/fo.022.hitmonlee.jpg?ex=687565e4&is=68741464&hm=ea92f9ec10a4796d11d1024f8ce1d47d227b560664568e0cc475cc87a995f7a1&",
+            "pack": "fossil"
+        },
+        {
+            "name": "Goop Gas Attack",
+            "rarity": "common",
+            "number": "78",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052684784341012/ro.078.goop_gas_attack.jpg?ex=6875683c&is=687416bc&hm=4a3ae345840118271b6264d855e427b0f81c70269cf423d396e3b9fa3b1676bb&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Golduck",
+            "rarity": "uncommon",
+            "number": "37",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051259673346169/ro.037.dark_golduck.jpg?ex=687566e8&is=68741568&hm=0020a4a772e62627f3ce20e984dbc6fba8fd6033b3ea8a640f1a43a30fc9270c&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Double Colorless Energy",
+            "rarity": "energy",
+            "number": "96",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029773914640485/1394045087503089734/bs.096.double_colorless_energy.jpg?ex=68756128&is=68740fa8&hm=f573207a27c2db4288231bdc5fbfa60c029134b08012845fa5005fc2be90f888&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Electrode",
+            "rarity": "uncommon",
+            "number": "34",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051258444153023/ro.034.dark_electrode.jpg?ex=687566e8&is=68741568&hm=c1bf1424dd423552a184645b148becffc2380584b5894dbf3df2a317f15a2725&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Potion Energy",
+            "rarity": "uncommon",
+            "number": "82",
+            "type": "Energy",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052699305148426/ro.082.potion_energy.jpg?ex=6875683f&is=687416bf&hm=7a1b59ba412390e1440988e198af214edab548d8f108dd1ed7a687433c383df7&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Slowbro",
+            "rarity": "rare",
+            "number": "29",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051243319623732/ro.029.dark_slowbro.jpg?ex=687566e4&is=68741564&hm=e8178b8c2078d84511d7bb8e477bddda0e1fe3a58f42393f3ae742b0f1986bc6&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Kadabra",
+            "rarity": "uncommon",
+            "number": "39",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051260545761332/ro.039.dark_kadabra.jpg?ex=687566e8&is=68741568&hm=68616603a12408d16b2e4f455a1d35eb2d4a3435c09c6f7d371d3c2543e89f4f&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Blastoise",
+            "rarity": "rare",
+            "number": "20",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051221169635368/ro.020.dark_blastoise.jpg?ex=687566df&is=6874155f&hm=74bb586d6987f2673d89a9f920e7df4e0cb1b95efa207d55cf38758a9c18ff5b&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Vileplume",
+            "rarity": "rare",
+            "number": "30",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051243802103859/ro.030.dark_vileplume.jpg?ex=687566e4&is=68741564&hm=fbd752809ed29ed9e8cb96f2ec46da0636727879c89bc24aad167172289dbed5&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Charizard",
+            "rarity": "rare",
+            "number": "4",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051197845110894/ro.004.dark_charizard.jpg?ex=687566d9&is=68741559&hm=080006c739b6b6a929e6471307160482cf97d132d4582919643a0a8edb27bc7d&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Arbok",
+            "rarity": "rare",
+            "number": "19",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051220846416045/ro.019.dark_arbok.jpg?ex=687566df&is=6874155f&hm=677a8eef915413776340c9585b45278562b3cf9a0f2b4c9940b0f84b21e9227f&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Rainbow Energy",
+            "rarity": "rare",
+            "number": "17",
+            "type": "Energy",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051220284375082/ro.017.rainbow_energy.jpg?ex=687566df&is=6874155f&hm=689f7ab6038022c8527bd37b52671ea234affbfe7869ea59338b4df791f7c169&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Digger",
+            "rarity": "uncommon",
+            "number": "75",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052683463131296/ro.075.digger.jpg?ex=6875683b&is=687416bb&hm=ae3a8dac18b6ced10b671506ec4aa65b982abd3c09d1c926727a0438da3625af&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Hypno",
+            "rarity": "rare",
+            "number": "26",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051241960804502/ro.026.dark_hypno.jpg?ex=687566e4&is=68741564&hm=3f1c3b30e5ff7c9d3c098a2b4b76537c8faccb5febd0473fd9b58f46a03a9af4&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Jolteon",
+            "rarity": "uncommon",
+            "number": "38",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051260025536663/ro.038.dark_jolteon.jpg?ex=687566e8&is=68741568&hm=86bc1564ae461e33e268a862d2b1238b3385e7b711b52abcfafeb69dc1e06960&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Blastoise",
+            "rarity": "rare",
+            "number": "3",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051197568155738/ro.003.dark_blastoise.jpg?ex=687566d9&is=68741559&hm=9dad9212a4bcbba9c0b57c0f9e53c6785fe27362adbb0781503beb43d7730712&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Rocket's Sneak Attack",
+            "rarity": "rare",
+            "number": "16",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051219957223614/ro.016.rockets_sneak_attack.jpg?ex=687566df&is=6874155f&hm=b896a7d6b5a2554d123dfd9912ceab1658ef46d6182000b21674fd0bf0ec259c&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Rainbow Energy",
+            "rarity": "rare",
+            "number": "80",
+            "type": "Energy",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052685589905500/ro.080.rainbow_energy.jpg?ex=6875683c&is=687416bc&hm=34d0f1cbef94b92a72dcdf4d080efd1274ce9235ae95f1032661ce404d01436b&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Dugtrio",
+            "rarity": "rare",
+            "number": "23",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051240568033420/ro.023.dark_dugtrio.jpg?ex=687566e3&is=68741563&hm=a865f05414462791d8d354579b2ffaf09d4f06eb803b29218c4c1febe8d3a7d3&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Alakazam",
+            "rarity": "rare",
+            "number": "1",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051196972699699/ro.001.dark_alakazam.jpg?ex=687566d9&is=68741559&hm=6e2b6b7aaf779041d421891bceddb4ade0c8b3af5b7aaddcb147855bd9195853&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Machamp",
+            "rarity": "rare",
+            "number": "27",
+            "type": "Fighting",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051242359128085/ro.027.dark_machamp.jpg?ex=687566e4&is=68741564&hm=e461c213055b1616979678c19f33dc1a4e34fd78df46a6381fad49e74fd83302&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Dugtrio",
+            "rarity": "rare",
+            "number": "6",
+            "type": "Ground",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051198427987988/ro.006.dark_dugtrio.jpg?ex=687566d9&is=68741559&hm=da6fadd3d41f2bb960e0bf2eb2769c173610d972dd4f8895dc9897bf9a85d48d&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Golbat",
+            "rarity": "rare",
+            "number": "7",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051198688039073/ro.007.dark_golbat.jpg?ex=687566d9&is=68741559&hm=062ce05531feec70a4b617b6a525625814a87e6b97cb26518a0127faabec0838&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Charizard",
+            "rarity": "rare",
+            "number": "21",
+            "type": "Fire",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051239364268052/ro.021.dark_charizard.jpg?ex=687566e3&is=68741563&hm=ac289ddfa66c0fd18a57c225ed254612dcf96f081a604f431c62975d2f86ef80&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Gyarados",
+            "rarity": "rare",
+            "number": "25",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051241507684372/ro.025.dark_gyarados.jpg?ex=687566e4&is=68741564&hm=ad49ac811474939b891425df0e4b32d1d4a94e0b75fb8f377053d98179c87488&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Here Comes Team Rocket",
+            "rarity": "rare",
+            "number": "71",
+            "type": "Trainer",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394052681932345490/ro.071.here_comes_team_rocket.jpg?ex=6875683b&is=687416bb&hm=c20e1165e2cdcd5292edcf5997d6d82c8853250238270238f50deba443909dba&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Alakazam",
+            "rarity": "rare",
+            "number": "18",
+            "type": "Psychic",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051220582301786/ro.018.dark_alakazam.jpg?ex=687566df&is=6874155f&hm=fe97302eb0bb677798014cb1dfd30209ecc865f7708fd569131f254ffebdee32&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Slowbro",
+            "rarity": "rare",
+            "number": "12",
+            "type": "Water",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051218803785848/ro.012.dark_slowbro.jpg?ex=687566de&is=6874155e&hm=62bd144175013eaed0deb5547f80298a05db60f5805b119c53f34440865eb397&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Magneton",
+            "rarity": "rare",
+            "number": "28",
+            "type": "Electric",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051242845671637/ro.028.dark_magneton.jpg?ex=687566e4&is=68741564&hm=fad3fb9d0e1df747437220858337ea7ba766abb8684f1072b2585eee8660250b&",
+            "pack": "rocket"
+        },
+        {
+            "name": "Dark Vileplume",
+            "rarity": "rare",
+            "number": "13",
+            "type": "Grass",
+            "image_url": "https://cdn.discordapp.com/attachments/1394029861961470142/1394051219063967885/ro.013.dark_vileplume.jpg?ex=687566de&is=6874155e&hm=ff89c89370b37f1190945365c6a9aa01bf5855006e80f42482bf9f10256245b5&",
+            "pack": "rocket"
+        }
+    ]
+}

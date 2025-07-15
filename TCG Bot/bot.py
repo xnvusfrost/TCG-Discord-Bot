@@ -4,7 +4,7 @@ import asyncio
 import discord
 from discord.ext import commands
 from dotenv import load_dotenv
-from typing import cast  # ✅ Add this line
+from typing import cast
 import traceback
 
 # Load .env file
@@ -21,24 +21,26 @@ if not TOKEN:
 # Setup intents and bot
 intents = discord.Intents.default()
 intents.message_content = True
+intents.reactions = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 COGS = [
     "cogs.binder",
     "cogs.currency",
-    "cogs.duplicates",
     "cogs.help",
     "cogs.packs",
-    "cogs.shop"
+    "cogs.shop",
+    "cogs.trade",
+    "cogs.adventure"
 ]
 
 @bot.event
 async def on_ready():
-    if bot.user:
+    if bot.user is not None:
         print(f"✅ Logged in as {bot.user} (ID: {bot.user.id})")
     else:
-        print("❌ Bot user is None.")
+        print("✅ Logged in, but bot user is None.")
 
 async def main():
     async with bot:
@@ -49,11 +51,7 @@ async def main():
             except Exception as e:
                 print(f"❌ Failed to load {cog}: {e}")
                 traceback.print_exc()
-
         await bot.start(TOKEN)
 
 if __name__ == "__main__":
     asyncio.run(main())
-
-
-

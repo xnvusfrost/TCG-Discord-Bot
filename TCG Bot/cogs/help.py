@@ -1,7 +1,5 @@
 import discord
 from discord.ext import commands
-from utils import get_balance, add_balance, user_packs, save_user_packs, load_pack
-
 
 class Help(commands.Cog):
     def __init__(self, bot):
@@ -20,41 +18,66 @@ class Help(commands.Cog):
             inline=False
         )
         embed.add_field(
-            name="`!dup <pack_name>`, `!dupes <pack_name>`, `!duplicates <pack_name>`, `!d <pack_name>`",
-            value="Shows you how many duplicate cards you have in a pack. Example: `!dup base`",
-            inline=False
-        )
-        embed.add_field(
-            name="`!op <pack_name>`",
-            value="Open a booster pack to collect cards.",
+            name="`!op <pack_name> [amount]`",
+            value="Open 1-5 booster packs to collect cards. Example: `!op base 3`",
             inline=False
         )
         embed.add_field(
             name="`!shop`",
-            value="Shows you what packs you can buy.",
+            value="Shows what packs you can buy.",
+            inline=False
+        )
+        embed.add_field(
+            name="`!give @user <amount>`",
+            value="Give coins to another user. Example: `!give @Ash 100`",
             inline=False
         )
         embed.add_field(
             name="`!daily`",
-            value="Allows you to get paid every 24 hours.",
+            value="Claim your daily reward (every 24 hours).",
             inline=False
         )
         embed.add_field(
             name="`!bal`",
-            value="Shows you how much money you have.",
+            value="Shows how much money you have.",
             inline=False
         )
         embed.add_field(
             name="`!flip <heads/tails> <bet_amount>`",
-            value="Flip a coin and bet on the outcome.",
+            value="Flip a coin and bet on the outcome. Example: `!flip heads 100`",
             inline=False
         )
         embed.add_field(
             name="`!fwg <bet_amount>`",
-            value="Play Fire Water Grass for a chance to win coins.",
+            value="Play Fire Water Grass for a chance to win coins. Example: `!fwg 100`",
             inline=False
         )
-        embed.set_footer(text="Use commands without <> or [] symbols.")
+        embed.add_field(
+            name="`!wonderpick`, `!wp`",
+            value="Randomly pick 1 of 5 cards to add to your binder.",
+            inline=False
+        )
+        embed.add_field(
+            name="`!wonderenergy`, `!we`",
+            value="Shows your Wonderpack Energy and next recharge time.",
+            inline=False
+        )
+        embed.add_field(
+            name="`!packenergy`, `!pe`",
+            value="Shows your Pack Energy and next recharge time.",
+            inline=False
+        )
+        embed.add_field(
+            name="`!freepack <pack_name>`, `!fp <pack_name>`",
+            value="Use 1 Pack Energy to get a free pack (not valid for booster boxes).",
+            inline=False
+        )
+        embed.add_field(
+            name="`!trade @user <your_card> for <their_card>`",
+            value="Trade cards with another user. Example: `!trade @Ash base.001.alakazam for base.004.charizard`",
+            inline=False
+        )
+        embed.set_footer(text="Use commands without <> or [] symbols. [] means optional, <> means required.")
         await ctx.send(embed=embed)
 
 async def setup(bot):
